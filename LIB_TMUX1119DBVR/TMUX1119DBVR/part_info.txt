@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TMUX1119DBVR
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2020-08-25 11:09:07
+Downloaded=2026-02-26 20:19:27
+3D=Y

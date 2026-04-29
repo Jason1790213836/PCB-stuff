@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=BG
+Change Component Designator: OldDesignator=J2 NewDesignator=SOL_G
+Change Component Designator: OldDesignator=J3 NewDesignator=TG2
+Change Component Designator: OldDesignator=J4 NewDesignator=TG1
+Change Component Designator: OldDesignator=J6 NewDesignator=D1_OUT
+Change Component Designator: OldDesignator=J7 NewDesignator=S_OUT
+Change Component Designator: OldDesignator=J8 NewDesignator=D2_OUT
+Added Room: Name=MCU
+Added Room: Name=SMA

@@ -1,0 +1,423 @@
+Added Component: Designator=*1(TMUX1119DBVR)
+Added Component: Designator=*2(TMUX1119DBVR)
+Added Component: Designator=*(TMUX1119DBVR)
+Added Component: Designator=1(ADP7118ARDZ-5.0-R7)
+Added Component: Designator=2(ADP7118ARDZ-5.0-R7)
+Added Component: Designator=B1(QFP50P900X900X160-48N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0029426.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSP430FR2355TPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-MSP430FR2355TPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/MSP430FR2355TPT?qs=gTYE2QTfZfTjQOKK%2F%2Fw59A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=c1(0805X7R106KT1AT)
+Added Component: Designator=c2(0805X7R106KT1AT)
+Added Component: Designator=c3(0805X7R106KT1AT)
+Added Component: Designator=c4(0805X7R106KT1AT)
+Added Component: Designator=c5(0805X7R106KT1AT)
+Added Component: Designator=C6(0805X7R106KT1AT)
+Added Component: Designator=C7(0805X7R106KT1AT)
+Added Component: Designator=C8(0805X7R106KT1AT)
+Added Component: Designator=HSEC1(SAMTEC_HSEC8-120-01-L-RA)
+Added Component: Designator=J1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J5(PWRPJ)
+Added Component: Designator=J6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J7(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=JTAG1(CONN_7024614xx_MOL)
+Added Component: Designator=R1(CR0805-FX-1543ELF)
+Added Component: Designator=TMUX1(TMUX1108PWR)
+Added Component: Designator=TMUX2(TMUX1108PWR)
+Added Component: Designator=TMUX3(TMUX1108PWR)
+Added Component: Designator=TMUX4(TMUX1108PWR)
+Added Component: Designator=TMUX5(TMUX1108PWR)
+Added Component: Designator=TMUX6(TMUX1108PWR)
+Added Pin To Net: NetName=+5 Pin=1-1
+Added Pin To Net: NetName=+5 Pin=1-2
+Added Pin To Net: NetName=+5 Pin=1-3
+Added Pin To Net: NetName=+5 Pin=*-2
+Added Pin To Net: NetName=+5 Pin=*1-2
+Added Pin To Net: NetName=+5 Pin=*2-2
+Added Pin To Net: NetName=+5 Pin=c2-2
+Added Pin To Net: NetName=+5 Pin=TMUX1-2
+Added Pin To Net: NetName=+5 Pin=TMUX1-13
+Added Pin To Net: NetName=+5 Pin=TMUX2-2
+Added Pin To Net: NetName=+5 Pin=TMUX2-13
+Added Pin To Net: NetName=+5 Pin=TMUX3-2
+Added Pin To Net: NetName=+5 Pin=TMUX3-13
+Added Pin To Net: NetName=+5 Pin=TMUX4-2
+Added Pin To Net: NetName=+5 Pin=TMUX4-13
+Added Pin To Net: NetName=+5 Pin=TMUX5-2
+Added Pin To Net: NetName=+5 Pin=TMUX5-13
+Added Pin To Net: NetName=+5 Pin=TMUX6-2
+Added Pin To Net: NetName=+5 Pin=TMUX6-13
+Added Net: Name=+5
+Added Pin To Net: NetName=BG Pin=HSEC1-2
+Added Pin To Net: NetName=BG Pin=J1-1
+Added Net: Name=BG
+Added Pin To Net: NetName=D1-1 Pin=HSEC1-29
+Added Pin To Net: NetName=D1-1 Pin=TMUX1-4
+Added Net: Name=D1-1
+Added Pin To Net: NetName=D1-2 Pin=HSEC1-4
+Added Pin To Net: NetName=D1-2 Pin=TMUX3-4
+Added Net: Name=D1-2
+Added Pin To Net: NetName=D1_OUT Pin=*-5
+Added Pin To Net: NetName=D1_OUT Pin=J6-1
+Added Net: Name=D1_OUT
+Added Pin To Net: NetName=D2-1 Pin=HSEC1-6
+Added Pin To Net: NetName=D2-1 Pin=TMUX1-5
+Added Net: Name=D2-1
+Added Pin To Net: NetName=D2-2 Pin=HSEC1-10
+Added Pin To Net: NetName=D2-2 Pin=TMUX3-5
+Added Net: Name=D2-2
+Added Pin To Net: NetName=D2_OUT Pin=*1-5
+Added Pin To Net: NetName=D2_OUT Pin=J8-1
+Added Net: Name=D2_OUT
+Added Pin To Net: NetName=D3-1 Pin=HSEC1-12
+Added Pin To Net: NetName=D3-1 Pin=TMUX1-6
+Added Net: Name=D3-1
+Added Pin To Net: NetName=D3-2 Pin=HSEC1-16
+Added Pin To Net: NetName=D3-2 Pin=TMUX3-6
+Added Net: Name=D3-2
+Added Pin To Net: NetName=D4-1 Pin=HSEC1-18
+Added Pin To Net: NetName=D4-1 Pin=TMUX1-7
+Added Net: Name=D4-1
+Added Pin To Net: NetName=D4-2 Pin=HSEC1-22
+Added Pin To Net: NetName=D4-2 Pin=TMUX3-7
+Added Net: Name=D4-2
+Added Pin To Net: NetName=D5-1 Pin=HSEC1-24
+Added Pin To Net: NetName=D5-1 Pin=TMUX1-12
+Added Net: Name=D5-1
+Added Pin To Net: NetName=D5-2 Pin=HSEC1-28
+Added Pin To Net: NetName=D5-2 Pin=TMUX3-12
+Added Net: Name=D5-2
+Added Pin To Net: NetName=D6-1 Pin=HSEC1-32
+Added Pin To Net: NetName=D6-1 Pin=TMUX1-11
+Added Net: Name=D6-1
+Added Pin To Net: NetName=D6-2 Pin=HSEC1-38
+Added Pin To Net: NetName=D6-2 Pin=TMUX3-11
+Added Net: Name=D6-2
+Added Pin To Net: NetName=D7-1 Pin=HSEC1-40
+Added Pin To Net: NetName=D7-1 Pin=TMUX1-10
+Added Net: Name=D7-1
+Added Pin To Net: NetName=D7-2 Pin=HSEC1-3
+Added Pin To Net: NetName=D7-2 Pin=TMUX3-10
+Added Net: Name=D7-2
+Added Pin To Net: NetName=D8-1 Pin=HSEC1-5
+Added Pin To Net: NetName=D8-1 Pin=TMUX2-4
+Added Net: Name=D8-1
+Added Pin To Net: NetName=D8-2 Pin=HSEC1-9
+Added Pin To Net: NetName=D8-2 Pin=TMUX4-4
+Added Net: Name=D8-2
+Added Pin To Net: NetName=D9-1 Pin=HSEC1-11
+Added Pin To Net: NetName=D9-1 Pin=TMUX2-5
+Added Net: Name=D9-1
+Added Pin To Net: NetName=D9-2 Pin=HSEC1-15
+Added Pin To Net: NetName=D9-2 Pin=TMUX4-5
+Added Net: Name=D9-2
+Added Pin To Net: NetName=D10-1 Pin=HSEC1-17
+Added Pin To Net: NetName=D10-1 Pin=TMUX2-6
+Added Net: Name=D10-1
+Added Pin To Net: NetName=D10-2 Pin=HSEC1-21
+Added Pin To Net: NetName=D10-2 Pin=TMUX4-6
+Added Net: Name=D10-2
+Added Pin To Net: NetName=D11-1 Pin=HSEC1-23
+Added Pin To Net: NetName=D11-1 Pin=TMUX2-7
+Added Net: Name=D11-1
+Added Pin To Net: NetName=D11-2 Pin=HSEC1-27
+Added Pin To Net: NetName=D11-2 Pin=TMUX4-7
+Added Net: Name=D11-2
+Added Pin To Net: NetName=GND Pin=1-4
+Added Pin To Net: NetName=GND Pin=1-9
+Added Pin To Net: NetName=GND Pin=2-4
+Added Pin To Net: NetName=GND Pin=2-9
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Pin To Net: NetName=GND Pin=B1-7
+Added Pin To Net: NetName=GND Pin=c1-1
+Added Pin To Net: NetName=GND Pin=c2-1
+Added Pin To Net: NetName=GND Pin=c3-1
+Added Pin To Net: NetName=GND Pin=c4-1
+Added Pin To Net: NetName=GND Pin=c5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=HSEC1-35
+Added Pin To Net: NetName=GND Pin=HSEC1-37
+Added Pin To Net: NetName=GND Pin=HSEC1-39
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=GND Pin=J4-5
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=GND Pin=J6-3
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=GND Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=GND Pin=J7-4
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=GND Pin=J8-3
+Added Pin To Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-5
+Added Pin To Net: NetName=GND Pin=JTAG1-9
+Added Pin To Net: NetName=GND Pin=TMUX1-3
+Added Pin To Net: NetName=GND Pin=TMUX1-9
+Added Pin To Net: NetName=GND Pin=TMUX1-14
+Added Pin To Net: NetName=GND Pin=TMUX2-3
+Added Pin To Net: NetName=GND Pin=TMUX2-9
+Added Pin To Net: NetName=GND Pin=TMUX2-10
+Added Pin To Net: NetName=GND Pin=TMUX2-11
+Added Pin To Net: NetName=GND Pin=TMUX2-12
+Added Pin To Net: NetName=GND Pin=TMUX2-14
+Added Pin To Net: NetName=GND Pin=TMUX3-3
+Added Pin To Net: NetName=GND Pin=TMUX3-9
+Added Pin To Net: NetName=GND Pin=TMUX3-14
+Added Pin To Net: NetName=GND Pin=TMUX4-3
+Added Pin To Net: NetName=GND Pin=TMUX4-9
+Added Pin To Net: NetName=GND Pin=TMUX4-10
+Added Pin To Net: NetName=GND Pin=TMUX4-11
+Added Pin To Net: NetName=GND Pin=TMUX4-12
+Added Pin To Net: NetName=GND Pin=TMUX4-14
+Added Pin To Net: NetName=GND Pin=TMUX5-3
+Added Pin To Net: NetName=GND Pin=TMUX5-9
+Added Pin To Net: NetName=GND Pin=TMUX5-14
+Added Pin To Net: NetName=GND Pin=TMUX6-3
+Added Pin To Net: NetName=GND Pin=TMUX6-9
+Added Pin To Net: NetName=GND Pin=TMUX6-10
+Added Pin To Net: NetName=GND Pin=TMUX6-11
+Added Pin To Net: NetName=GND Pin=TMUX6-12
+Added Pin To Net: NetName=GND Pin=TMUX6-14
+Added Net: Name=GND
+Added Pin To Net: NetName=Net1_5 Pin=1-5
+Added Pin To Net: NetName=Net1_5 Pin=1-7
+Added Pin To Net: NetName=Net1_5 Pin=1-8
+Added Pin To Net: NetName=Net1_5 Pin=2-5
+Added Pin To Net: NetName=Net1_5 Pin=2-7
+Added Pin To Net: NetName=Net1_5 Pin=2-8
+Added Pin To Net: NetName=Net1_5 Pin=c1-2
+Added Pin To Net: NetName=Net1_5 Pin=c5-2
+Added Pin To Net: NetName=Net1_5 Pin=J5-1
+Added Pin To Net: NetName=Net1_5 Pin=J5-A1
+Added Net: Name=Net1_5
+Added Pin To Net: NetName=Net1_6 Pin=1-6
+Added Pin To Net: NetName=Net1_6 Pin=c3-2
+Added Net: Name=Net1_6
+Added Pin To Net: NetName=Net2_1 Pin=2-1
+Added Pin To Net: NetName=Net2_1 Pin=2-2
+Added Pin To Net: NetName=Net2_1 Pin=2-3
+Added Pin To Net: NetName=Net2_1 Pin=B1-6
+Added Pin To Net: NetName=Net2_1 Pin=C6-1
+Added Pin To Net: NetName=Net2_1 Pin=C7-1
+Added Pin To Net: NetName=Net2_1 Pin=JTAG1-4
+Added Pin To Net: NetName=Net2_1 Pin=R1-1
+Added Net: Name=Net2_1
+Added Pin To Net: NetName=Net2_6 Pin=2-6
+Added Pin To Net: NetName=Net2_6 Pin=c4-2
+Added Net: Name=Net2_6
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=B1-2
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_4 Pin=*1-4
+Added Pin To Net: NetName=Net*1_4 Pin=TMUX3-8
+Added Net: Name=Net*1_4
+Added Pin To Net: NetName=Net*1_6 Pin=*1-6
+Added Pin To Net: NetName=Net*1_6 Pin=TMUX4-8
+Added Net: Name=Net*1_6
+Added Pin To Net: NetName=Net*2_1 Pin=*2-1
+Added Pin To Net: NetName=Net*2_1 Pin=B1-1
+Added Net: Name=Net*2_1
+Added Pin To Net: NetName=Net*2_4 Pin=*2-4
+Added Pin To Net: NetName=Net*2_4 Pin=TMUX5-8
+Added Net: Name=Net*2_4
+Added Pin To Net: NetName=Net*2_6 Pin=*2-6
+Added Pin To Net: NetName=Net*2_6 Pin=TMUX6-8
+Added Net: Name=Net*2_6
+Added Pin To Net: NetName=Net*_1 Pin=*-1
+Added Pin To Net: NetName=Net*_1 Pin=B1-3
+Added Net: Name=Net*_1
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=Net*_4 Pin=TMUX1-8
+Added Net: Name=Net*_4
+Added Pin To Net: NetName=Net*_6 Pin=*-6
+Added Pin To Net: NetName=Net*_6 Pin=TMUX2-8
+Added Net: Name=Net*_6
+Added Pin To Net: NetName=NetB1_4 Pin=B1-4
+Added Pin To Net: NetName=NetB1_4 Pin=JTAG1-8
+Added Net: Name=NetB1_4
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=C8-1
+Added Pin To Net: NetName=NetB1_5 Pin=JTAG1-11
+Added Pin To Net: NetName=NetB1_5 Pin=R1-2
+Added Net: Name=NetB1_5
+Added Pin To Net: NetName=NetB1_8 Pin=B1-8
+Added Pin To Net: NetName=NetB1_8 Pin=TMUX3-1
+Added Net: Name=NetB1_8
+Added Pin To Net: NetName=NetB1_9 Pin=B1-9
+Added Net: Name=NetB1_9
+Added Pin To Net: NetName=NetB1_10 Pin=B1-10
+Added Net: Name=NetB1_10
+Added Pin To Net: NetName=NetB1_11 Pin=B1-11
+Added Pin To Net: NetName=NetB1_11 Pin=TMUX4-1
+Added Net: Name=NetB1_11
+Added Pin To Net: NetName=NetB1_20 Pin=B1-20
+Added Pin To Net: NetName=NetB1_20 Pin=TMUX6-15
+Added Net: Name=NetB1_20
+Added Pin To Net: NetName=NetB1_21 Pin=B1-21
+Added Pin To Net: NetName=NetB1_21 Pin=TMUX4-15
+Added Net: Name=NetB1_21
+Added Pin To Net: NetName=NetB1_22 Pin=B1-22
+Added Pin To Net: NetName=NetB1_22 Pin=TMUX2-15
+Added Net: Name=NetB1_22
+Added Pin To Net: NetName=NetB1_27 Pin=B1-27
+Added Pin To Net: NetName=NetB1_27 Pin=TMUX2-16
+Added Net: Name=NetB1_27
+Added Pin To Net: NetName=NetB1_28 Pin=B1-28
+Added Pin To Net: NetName=NetB1_28 Pin=TMUX2-1
+Added Net: Name=NetB1_28
+Added Pin To Net: NetName=NetB1_29 Pin=B1-29
+Added Pin To Net: NetName=NetB1_29 Pin=TMUX1-15
+Added Net: Name=NetB1_29
+Added Pin To Net: NetName=NetB1_30 Pin=B1-30
+Added Pin To Net: NetName=NetB1_30 Pin=TMUX1-16
+Added Net: Name=NetB1_30
+Added Pin To Net: NetName=NetB1_37 Pin=B1-37
+Added Pin To Net: NetName=NetB1_37 Pin=TMUX6-16
+Added Net: Name=NetB1_37
+Added Pin To Net: NetName=NetB1_38 Pin=B1-38
+Added Pin To Net: NetName=NetB1_38 Pin=TMUX6-1
+Added Net: Name=NetB1_38
+Added Pin To Net: NetName=NetB1_44 Pin=B1-44
+Added Pin To Net: NetName=NetB1_44 Pin=TMUX5-15
+Added Net: Name=NetB1_44
+Added Pin To Net: NetName=NetB1_45 Pin=B1-45
+Added Pin To Net: NetName=NetB1_45 Pin=TMUX5-16
+Added Net: Name=NetB1_45
+Added Pin To Net: NetName=NetB1_46 Pin=B1-46
+Added Pin To Net: NetName=NetB1_46 Pin=TMUX5-1
+Added Net: Name=NetB1_46
+Added Pin To Net: NetName=NetB1_48 Pin=B1-48
+Added Pin To Net: NetName=NetB1_48 Pin=TMUX1-1
+Added Net: Name=NetB1_48
+Added Pin To Net: NetName=NetTMUX4_16 Pin=TMUX4-16
+Added Net: Name=NetTMUX4_16
+Added Pin To Net: NetName=S1 Pin=HSEC1-31
+Added Pin To Net: NetName=S1 Pin=TMUX5-4
+Added Net: Name=S1
+Added Pin To Net: NetName=S2 Pin=HSEC1-8
+Added Pin To Net: NetName=S2 Pin=TMUX5-5
+Added Net: Name=S2
+Added Pin To Net: NetName=S3 Pin=HSEC1-14
+Added Pin To Net: NetName=S3 Pin=TMUX5-6
+Added Net: Name=S3
+Added Pin To Net: NetName=S4 Pin=HSEC1-20
+Added Pin To Net: NetName=S4 Pin=TMUX5-7
+Added Net: Name=S4
+Added Pin To Net: NetName=S5 Pin=HSEC1-26
+Added Pin To Net: NetName=S5 Pin=TMUX5-12
+Added Net: Name=S5
+Added Pin To Net: NetName=S6 Pin=HSEC1-34
+Added Pin To Net: NetName=S6 Pin=TMUX5-11
+Added Net: Name=S6
+Added Pin To Net: NetName=S7 Pin=HSEC1-1
+Added Pin To Net: NetName=S7 Pin=TMUX5-10
+Added Net: Name=S7
+Added Pin To Net: NetName=S8 Pin=HSEC1-7
+Added Pin To Net: NetName=S8 Pin=TMUX6-4
+Added Net: Name=S8
+Added Pin To Net: NetName=S9 Pin=HSEC1-13
+Added Pin To Net: NetName=S9 Pin=TMUX6-5
+Added Net: Name=S9
+Added Pin To Net: NetName=S10 Pin=HSEC1-19
+Added Pin To Net: NetName=S10 Pin=TMUX6-6
+Added Net: Name=S10
+Added Pin To Net: NetName=S11 Pin=HSEC1-25
+Added Pin To Net: NetName=S11 Pin=TMUX6-7
+Added Net: Name=S11
+Added Pin To Net: NetName=S_OUT Pin=*2-5
+Added Pin To Net: NetName=S_OUT Pin=J7-1
+Added Net: Name=S_OUT
+Added Pin To Net: NetName=SOL_G Pin=HSEC1-33
+Added Pin To Net: NetName=SOL_G Pin=J2-1
+Added Net: Name=SOL_G
+Added Pin To Net: NetName=TCK Pin=B1-34
+Added Pin To Net: NetName=TCK Pin=JTAG1-7
+Added Net: Name=TCK
+Added Pin To Net: NetName=TDI Pin=B1-32
+Added Pin To Net: NetName=TDI Pin=JTAG1-3
+Added Net: Name=TDI
+Added Pin To Net: NetName=TDO Pin=B1-31
+Added Pin To Net: NetName=TDO Pin=JTAG1-1
+Added Net: Name=TDO
+Added Pin To Net: NetName=TG1 Pin=HSEC1-30
+Added Pin To Net: NetName=TG1 Pin=J4-1
+Added Net: Name=TG1
+Added Pin To Net: NetName=TG2 Pin=HSEC1-36
+Added Pin To Net: NetName=TG2 Pin=J3-1
+Added Net: Name=TG2
+Added Pin To Net: NetName=TMS Pin=B1-33
+Added Pin To Net: NetName=TMS Pin=JTAG1-5
+Added Net: Name=TMS
+Added Class: Name=MCU
+Added Class: Name=SMA

@@ -1,0 +1,16 @@
+.TMUX1119DBVR :1 ;Analog Switch ICs 3-pA, 5-V, 2:1 (SPDT), 1-channel precision multiplexer
+SOT95P280X145-6N
+*STM IC
+*NGS
+*PLB 1="SEL" 2="VDD" 3="GND" 4="S1" 5="D" 6="S2"
+*MXP 6
+*DFN TMUX1119DBVR
+~!Mouser Part Number (595-TMUX1119DBVR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1119DBVR?qs=9r4v7xj2Lnn%2FqYCDWCSZ7w%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TMUX1119DBVR)
+~!Link Datasheet (https://www.ti.com/lit/gpn/TMUX1119)
+~!Height (1.45mm)
+~!3D_Model (TMUX1119DBVR)
+TMUX1119DBVR
+1.1!U 2.1!U 3.1!U 6.1!U 5.1!U 4.1!U 

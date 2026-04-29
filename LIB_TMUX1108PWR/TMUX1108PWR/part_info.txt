@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TMUX1108PWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=2.1
+Released=2018-12-06 04:10:26
+Downloaded=2026-02-26 20:07:32
+3D=Y

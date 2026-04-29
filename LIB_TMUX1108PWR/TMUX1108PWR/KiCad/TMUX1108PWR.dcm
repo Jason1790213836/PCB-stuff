@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMUX1108PWR
+D Analog Switch ICs 5V / +/-2.5V, 8:1, low-leakage precision multiplexer 16-TSSOP -40 to 125
+K
+F http://www.ti.com/lit/ds/symlink/tmux1108.pdf
+$ENDCMP
+#
+#End Doc Library

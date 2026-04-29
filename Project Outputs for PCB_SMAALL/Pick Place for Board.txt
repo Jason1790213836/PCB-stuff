@@ -1,0 +1,46 @@
+Altium Designer Pick and Place Locations
+C:\Users\57778\Desktop\multi\PCB_SMAALL\Project Outputs for PCB_SMAALL\Pick Place for Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/03/26
+Time:       14:47
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment              Layer       Footprint                Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                                             
+J34        M20-9990246          TopLayer    M20-9990246              1400.000      3030.000      180      ""                                                                                                                                                      
+J33        M20-9990246          TopLayer    M20-9990246              1400.000      3175.000      180      ""                                                                                                                                                      
+TMUX6      TMUX1108PWR          BottomLayer TMUX1108PWR              3802.204      2229.331      270      ""                                                                                                                                                      
+TMUX5      TMUX1108PWR          BottomLayer TMUX1108PWR              3452.323      2229.331      270      ""                                                                                                                                                      
+TMUX4      TMUX1108PWR          BottomLayer TMUX1108PWR              3102.441      2229.331      270      ""                                                                                                                                                      
+TMUX3      TMUX1108PWR          BottomLayer TMUX1108PWR              2752.559      2229.331      270      ""                                                                                                                                                      
+TMUX2      TMUX1108PWR          BottomLayer TMUX1108PWR              2402.677      2229.331      270      ""                                                                                                                                                      
+TMUX1      TMUX1108PWR          BottomLayer TMUX1108PWR              2052.795      2229.331      270      ""                                                                                                                                                      
+R1         47k                  TopLayer    CR0805-FX-1543ELF        1055.000      2680.000      0        ""                                                                                                                                                      
+JTAG1      302-S14              TopLayer    CONN_7024614xx_MOL       620.000       3090.000      0        ""                                                                                                                                                      
+D2_OUT     SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              2932.500      1425.000      0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+S_OUT      SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              3665.000      1425.000      0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+D1_OUT     SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              1325.000      2240.000      0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+J5         PJ-002AH-SMT-TR      TopLayer    PWRPJ                    480.945       440.000       270      ""                                                                                                                                                      
+TG1        SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              2590.000      640.000       0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+TG2        SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              1340.000      1465.000      0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+SOL_G      SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              2210.000      1440.000      0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+BG         SMA-J-P-H-ST-TH1     TopLayer    SMAJPHSTTH1              3305.000      660.000       0        "SAMTEC - SMA-J-P-H-ST-TH1 - RF COAXIAL, SMA JACK, 50 OHM, PCB"                                                                                         
+HSEC1      HSEC8-120-01-S-RA-TR TopLayer    SAMTEC_HSEC8-120-01-L-RA 3001.260      3132.264      180      HSEC8-120-01-S-RA-TR                                                                                                                                    
+C8         1n                   TopLayer    0805X7R106KT1AT          1232.008      2680.000      0        ""                                                                                                                                                      
+C7         10u                  TopLayer    0805X7R106KT1AT          1670.000      3232.992      90       ""                                                                                                                                                      
+C6         100n                 TopLayer    0805X7R106KT1AT          1575.000      3232.008      90       ""                                                                                                                                                      
+c5         2.2u                 TopLayer    0805X7R106KT1AT          1365.000      659.006       270      ""                                                                                                                                                      
+c4         2.2u                 TopLayer    0805X7R106KT1AT          1275.000      652.992       270      ""                                                                                                                                                      
+c3         2.2u                 TopLayer    0805X7R106KT1AT          1010.000      662.008       270      ""                                                                                                                                                      
+c2         2.2u                 TopLayer    0805X7R106KT1AT          872.008       165.000       0        ""                                                                                                                                                      
+c1         2.2u                 TopLayer    0805X7R106KT1AT          890.000       717.992       270      ""                                                                                                                                                      
+B1         MSP430FR2355TPT      TopLayer    QFP50P900X900X160-48N    1895.000      2985.000      315      "16-bit Microcontrollers - MCU 24MHz 105C ULP Microcontroller With 32 KB FRAM, 4 KB SRAM, 44 IO, 12-bit ADC, 12-bit DACs, OpAmp/PGA 48-LQFP -40 to 105" 
+2          ADP7118ARDZ-3.3-R7   TopLayer    ADP7118ARDZ-5.0-R7       1300.000      430.000       90       ""                                                                                                                                                      
+1          ADP7118ARDZ-5.0-R7   TopLayer    ADP7118ARDZ-5.0-R7       990.000       430.000       90       ""                                                                                                                                                      
+*3         TMUX1119             BottomLayer TMUX1119DBVR             2309.213      2610.000      180      ""                                                                                                                                                      
+*2         TMUX1119             BottomLayer TMUX1119DBVR             3618.623      2610.000      0        ""                                                                                                                                                      
+*1         TMUX1119             BottomLayer TMUX1119DBVR             2935.000      2610.000      180      ""                                                                                                                                                      

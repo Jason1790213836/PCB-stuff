@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TMUX1119DBVR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-02-26-07:15:04)
+    (mountForm default
+        (footprintRef "SOT95P280X145-6N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMUX1119DBVR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TMUX1119DBVR" (!) = "", "SOT95P280X145-6N", "SOT23 (6-Pin)", "595-TMUX1119DBVR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1119DBVR?qs=9r4v7xj2Lnn%2FqYCDWCSZ7w%3D%3D", "Analog Switch ICs 3-pA, 5-V, 2:1 (SPDT), 1-channel precision multiplexer", "https://www.ti.com/lit/gpn/TMUX1119", "1.45 mm"
+END_PART
+
+END.

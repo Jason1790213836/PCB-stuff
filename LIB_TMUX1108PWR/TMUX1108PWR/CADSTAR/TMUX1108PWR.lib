@@ -1,0 +1,16 @@
+.TMUX1108PWR :1 ;Analog Switch ICs 5V / +/-2.5V, 8:1, low-leakage precision multiplexer 16-TSSOP -40 to 125
+SOP65P640X120-16N
+*STM IC
+*NGS
+*PLB 1="A0" 2="EN" 3="VSS" 4="S1" 5="S2" 6="S3" 7="S4" 8="D" 9="S8" 10="S7" 11="S6" 12="S5" 13="VDD" 14="GND" 15="A2" 16="A1"
+*MXP 16
+*DFN TMUX1108PWR
+~!Mouser Part Number (595-TMUX1108PWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1108PWR?qs=PqoDHHvF6486MXIgK4oQ5g%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TMUX1108PWR)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/tmux1108.pdf)
+~!Height (1.2mm)
+~!3D_Model (TMUX1108PWR)
+TMUX1108PWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

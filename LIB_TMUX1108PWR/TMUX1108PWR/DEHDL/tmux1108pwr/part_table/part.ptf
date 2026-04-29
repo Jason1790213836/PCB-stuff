@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TMUX1108PWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TMUX1108PWR" (!) = "", "SOP65P640X120-16N", "Small Outline Packages", "595-TMUX1108PWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1108PWR?qs=PqoDHHvF6486MXIgK4oQ5g%3D%3D", "Analog Switch ICs 5V / +/-2.5V, 8:1, low-leakage precision multiplexer 16-TSSOP -40 to 125", "http://www.ti.com/lit/ds/symlink/tmux1108.pdf", "1.2 mm"
+END_PART
+
+END.

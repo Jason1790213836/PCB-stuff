@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Net2_1 Pin=R1-1
+Change Net Name : Old Net Name=Net2_1 New Net Name=3.3V
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Room: Name=MCU
+Added Room: Name=SMA
