@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP7118ARDZ-5.0-R7
+D ANALOG DEVICES - ADP7118ARDZ-5.0-R7 - LDO Voltage Regulator, Fixed, 2.7 V to 20 V in, 200 mV drop, 5 V/200 mA out, NSOIC-8
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/adp7118.pdf
+$ENDCMP
+#
+#End Doc Library

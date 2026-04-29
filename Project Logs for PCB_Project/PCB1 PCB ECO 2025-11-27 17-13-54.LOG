@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetB21_2 Pin=CH11_OUT-1
+Added Pin To Net: NetName=NetCH11_OUT_1 Pin=CH11_OUT-1
+Added Pin To Net: NetName=NetCH11_OUT_1 Pin=MUXS1-S6-7
+Added Net: Name=NetCH11_OUT_1

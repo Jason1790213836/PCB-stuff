@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CR0805_FX_1543ELF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CR0805-FX-1543ELF" (!) = "", "RESC2012X60N", "Resistor Chip", "652-CR0805FX-1543ELF", "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-FX-1543ELF?qs=Hqdsf0hGw%2FDRTThedSiXGA%3D%3D", "Thick Film Resistors - SMD 154K 1%", "https://www.bourns.com/pdfs/chpreztr.pdf", "0.6 mm"
+END_PART
+
+END.

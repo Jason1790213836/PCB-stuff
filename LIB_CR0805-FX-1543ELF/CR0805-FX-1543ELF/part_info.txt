@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CR0805-FX-1543ELF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.3
+Released=2023-03-07 09:22:10
+Downloaded=2025-11-10 17:15:24
+3D=Y

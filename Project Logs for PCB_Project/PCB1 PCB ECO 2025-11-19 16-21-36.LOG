@@ -1,0 +1,1947 @@
+Added Component: Designator=*1(HSEC8)
+Added Component: Designator=-5V_REG(LM27762)
+Added Component: Designator=2VDX1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX3(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX5(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX7(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX8(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX9(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX10(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDX11(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDXE1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=2VDXE2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=3.3V_REG(ADP7118ARDZ-5.0-R7)
+Added Component: Designator=5V_REG(ADP7118ARDZ-5.0-R7)
+Added Component: Designator=B1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B4(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B5(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B6(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B7(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B8(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B9(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B10(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B11(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B12(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B13(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B14(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B15(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B16(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B17(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B18(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B19(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B20(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B21(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B22(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B23(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B24(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B25(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B26(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B27(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B28(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B29(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/AD8541/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8541ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8541ARZ?qs=%2FtpEQrCGXCzcwV1djJTedQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B30(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.analog.com/ADA4610-2/datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADA4610-2ARZ-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=BG(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(capacitor)
+Added Component: Designator=c2(capacitor)
+Added Component: Designator=c3(capacitor)
+Added Component: Designator=c4(capacitor)
+Added Component: Designator=c5(capacitor)
+Added Component: Designator=c6(capacitor)
+Added Component: Designator=C7(capacitor)
+Added Component: Designator=C8(capacitor)
+Added Component: Designator=C9(capacitor)
+Added Component: Designator=C10(capacitor)
+Added Component: Designator=C11(capacitor)
+Added Component: Designator=C12(capacitor)
+Added Component: Designator=C13(capacitor)
+Added Component: Designator=C14(capacitor)
+Added Component: Designator=C15(capacitor)
+Added Component: Designator=C16(capacitor)
+Added Component: Designator=C17(capacitor)
+Added Component: Designator=C18(capacitor)
+Added Component: Designator=C19(capacitor)
+Added Component: Designator=C20(capacitor)
+Added Component: Designator=C21(capacitor)
+Added Component: Designator=C22(capacitor)
+Added Component: Designator=C23(capacitor)
+Added Component: Designator=C24(capacitor)
+Added Component: Designator=c25(capacitor)
+Added Component: Designator=C26(capacitor)
+Added Component: Designator=C27(capacitor)
+Added Component: Designator=C28(capacitor)
+Added Component: Designator=C29(capacitor)
+Added Component: Designator=C30(capacitor)
+Added Component: Designator=C31(capacitor)
+Added Component: Designator=C32(capacitor)
+Added Component: Designator=C33(capacitor)
+Added Component: Designator=Ccp1(capacitor)
+Added Component: Designator=CH1_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH2_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH3_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH4_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH5_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH6_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH7_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH8_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH9_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH10_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=CH11_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Cvin1(capacitor)
+Added Component: Designator=E1_IN(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=E1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=E2_IN(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=E2_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=I_BG(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=I_SOL_G(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=I_TG4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=I_TG6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(PWRPJ)
+Added Component: Designator=LPF_E1_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LPF_E2_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(resistor)
+Added Component: Designator=R2(resistor)
+Added Component: Designator=R3(resistor)
+Added Component: Designator=R4(resistor)
+Added Component: Designator=R5(resistor)
+Added Component: Designator=R6(resistor)
+Added Component: Designator=R7(resistor)
+Added Component: Designator=R8(resistor)
+Added Component: Designator=R9(resistor)
+Added Component: Designator=R10(resistor)
+Added Component: Designator=R11(resistor)
+Added Component: Designator=R12(resistor)
+Added Component: Designator=R13(resistor)
+Added Component: Designator=R14(resistor)
+Added Component: Designator=R15(resistor)
+Added Component: Designator=R16(resistor)
+Added Component: Designator=R39(resistor)
+Added Component: Designator=R40(resistor)
+Added Component: Designator=R41(resistor)
+Added Component: Designator=R42(resistor)
+Added Component: Designator=R43(resistor)
+Added Component: Designator=R44(resistor)
+Added Component: Designator=R45(resistor)
+Added Component: Designator=R46(resistor)
+Added Component: Designator=R47(resistor)
+Added Component: Designator=R48(resistor)
+Added Component: Designator=R49(resistor)
+Added Component: Designator=R50(resistor)
+Added Component: Designator=R51(resistor)
+Added Component: Designator=R52(resistor)
+Added Component: Designator=R53(resistor)
+Added Component: Designator=R54(resistor)
+Added Component: Designator=R55(resistor)
+Added Component: Designator=R56(resistor)
+Added Component: Designator=R57(resistor)
+Added Component: Designator=R58(resistor)
+Added Component: Designator=R59(resistor)
+Added Component: Designator=R60(resistor)
+Added Component: Designator=R61(resistor)
+Added Component: Designator=R62(resistor)
+Added Component: Designator=R63(resistor)
+Added Component: Designator=R64(resistor)
+Added Component: Designator=R65(resistor)
+Added Component: Designator=R66(resistor)
+Added Component: Designator=R67(resistor)
+Added Component: Designator=R68(resistor)
+Added Component: Designator=R69(resistor)
+Added Component: Designator=R70(resistor)
+Added Component: Designator=R71(resistor)
+Added Component: Designator=R72(resistor)
+Added Component: Designator=R73(resistor)
+Added Component: Designator=R74(resistor)
+Added Component: Designator=R75(resistor)
+Added Component: Designator=R76(resistor)
+Added Component: Designator=R77(resistor)
+Added Component: Designator=R78(resistor)
+Added Component: Designator=R79(resistor)
+Added Component: Designator=R80(resistor)
+Added Component: Designator=R81(resistor)
+Added Component: Designator=R82(resistor)
+Added Component: Designator=R83(resistor)
+Added Component: Designator=R84(resistor)
+Added Component: Designator=R85(resistor)
+Added Component: Designator=R86(resistor)
+Added Component: Designator=R87(resistor)
+Added Component: Designator=R88(resistor)
+Added Component: Designator=R89(resistor)
+Added Component: Designator=R90(resistor)
+Added Component: Designator=R91(resistor)
+Added Component: Designator=R92(resistor)
+Added Component: Designator=R93(resistor)
+Added Component: Designator=Rpu1(resistor)
+Added Component: Designator=S_IN1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S_IN2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S_IN3(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S_IN4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S_IN5(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=S_IN6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=SOL_G(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TG4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TG6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TIA_E1_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=TIA_E2_OUT(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD3(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD4(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD7(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD8(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD9(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD10(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD11(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD_E1(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=VD_E2(SMAJPHSTTH1)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://suddendocs.samtec.com/prints/sma-j-p-x-st-th1-mkt.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "9.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMA-J-P-H-ST-TH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "200-SMAJPHSTTH1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Samtec/SMA-J-P-H-ST-TH1?qs=bkXRl3BLxbHdaAB2Qwy6zw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X1(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X2(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X3(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X4(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X5(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X6(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X7(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X8(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X9(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X10(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X11(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X12(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X13(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X14(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X15(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X16(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X17(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X18(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X19(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X20(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X21(SLW12777443AND)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1277744-3a-n-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1277744-3A-N-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW12777443AND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/SLW-1277744-3A-N-D?qs=IKkN%2F947nfDtIMt0dYyHhg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X22(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X23(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X24(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X25(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X26(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X27(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X28(SLW14779443ASD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-1477944-3a-s-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SLW-1477944-3A-S-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-SLW14779443ASD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-1477944-3A-S-D?qs=IKkN%2F947nfD1CC%2FffJ%2FTNA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X29(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=X30(MSS10254528AD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/mss-102545-28a-d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "7.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MSS-102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-MSS102545-28A-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/MSS-102545-28A-D?qs=DRkmTr78QAQ33Pd9J32MOg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=S7 Pin=*1-01
+Added Pin To Net: NetName=BG Pin=*1-02
+Added Pin To Net: NetName=D7-2 Pin=*1-03
+Added Pin To Net: NetName=D1-2 Pin=*1-04
+Added Pin To Net: NetName=D8-1 Pin=*1-05
+Added Pin To Net: NetName=D2-1 Pin=*1-06
+Added Pin To Net: NetName=S8 Pin=*1-07
+Added Pin To Net: NetName=S2 Pin=*1-08
+Added Pin To Net: NetName=D8-2 Pin=*1-09
+Added Pin To Net: NetName=D2-2 Pin=*1-10
+Added Pin To Net: NetName=D9-1 Pin=*1-11
+Added Pin To Net: NetName=D3-1 Pin=*1-12
+Added Pin To Net: NetName=S9 Pin=*1-13
+Added Pin To Net: NetName=S3 Pin=*1-14
+Added Pin To Net: NetName=D9-2 Pin=*1-15
+Added Pin To Net: NetName=D3-2 Pin=*1-16
+Added Pin To Net: NetName=D10-1 Pin=*1-17
+Added Pin To Net: NetName=D4-1 Pin=*1-18
+Added Pin To Net: NetName=S10 Pin=*1-19
+Added Pin To Net: NetName=S4 Pin=*1-20
+Added Pin To Net: NetName=D10-2 Pin=*1-21
+Added Pin To Net: NetName=TG4 Pin=*1-22
+Added Pin To Net: NetName=D11-1 Pin=*1-23
+Added Pin To Net: NetName=D4-2 Pin=*1-24
+Added Pin To Net: NetName=S11 Pin=*1-25
+Added Pin To Net: NetName=D5-1 Pin=*1-26
+Added Pin To Net: NetName=D11-2 Pin=*1-27
+Added Pin To Net: NetName=S5 Pin=*1-28
+Added Pin To Net: NetName=D1-1 Pin=*1-29
+Added Pin To Net: NetName=D5-2 Pin=*1-30
+Added Pin To Net: NetName=S1 Pin=*1-31
+Added Pin To Net: NetName=D6-1 Pin=*1-32
+Added Pin To Net: NetName=SOL_G Pin=*1-33
+Added Pin To Net: NetName=S6 Pin=*1-34
+Added Pin To Net: NetName=GND Pin=*1-35
+Added Pin To Net: NetName=TG6 Pin=*1-36
+Added Pin To Net: NetName=GND Pin=*1-37
+Added Pin To Net: NetName=D6-2 Pin=*1-38
+Added Pin To Net: NetName=GND Pin=*1-39
+Added Pin To Net: NetName=D7-1 Pin=*1-40
+Added Pin To Net: NetName=Net-5V_REG_3 Pin=-5V_REG-3
+Added Pin To Net: NetName=GND Pin=-5V_REG-4
+Added Pin To Net: NetName=Net-5V_REG_5 Pin=-5V_REG-5
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=-5V_REG-6
+Added Pin To Net: NetName=Net-5V_REG_7 Pin=-5V_REG-7
+Added Pin To Net: NetName=GND Pin=-5V_REG-8
+Added Pin To Net: NetName=Net-5V_REG_9 Pin=-5V_REG-9
+Added Pin To Net: NetName=Net-5V_REG_10 Pin=-5V_REG-10
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=-5V_REG-12
+Added Pin To Net: NetName=GND Pin=-5V_REG-13
+Added Pin To Net: NetName=GND Pin=2VDX1-2
+Added Pin To Net: NetName=GND Pin=2VDX1-3
+Added Pin To Net: NetName=GND Pin=2VDX1-4
+Added Pin To Net: NetName=GND Pin=2VDX1-5
+Added Pin To Net: NetName=GND Pin=2VDX2-2
+Added Pin To Net: NetName=GND Pin=2VDX2-3
+Added Pin To Net: NetName=GND Pin=2VDX2-4
+Added Pin To Net: NetName=GND Pin=2VDX2-5
+Added Pin To Net: NetName=GND Pin=2VDX3-2
+Added Pin To Net: NetName=GND Pin=2VDX3-3
+Added Pin To Net: NetName=GND Pin=2VDX3-4
+Added Pin To Net: NetName=GND Pin=2VDX3-5
+Added Pin To Net: NetName=GND Pin=2VDX4-2
+Added Pin To Net: NetName=GND Pin=2VDX4-3
+Added Pin To Net: NetName=GND Pin=2VDX4-4
+Added Pin To Net: NetName=GND Pin=2VDX4-5
+Added Pin To Net: NetName=GND Pin=2VDX5-2
+Added Pin To Net: NetName=GND Pin=2VDX5-3
+Added Pin To Net: NetName=GND Pin=2VDX5-4
+Added Pin To Net: NetName=GND Pin=2VDX5-5
+Added Pin To Net: NetName=GND Pin=2VDX6-2
+Added Pin To Net: NetName=GND Pin=2VDX6-3
+Added Pin To Net: NetName=GND Pin=2VDX6-4
+Added Pin To Net: NetName=GND Pin=2VDX6-5
+Added Pin To Net: NetName=GND Pin=2VDX7-2
+Added Pin To Net: NetName=GND Pin=2VDX7-3
+Added Pin To Net: NetName=GND Pin=2VDX7-4
+Added Pin To Net: NetName=GND Pin=2VDX7-5
+Added Pin To Net: NetName=GND Pin=2VDX8-2
+Added Pin To Net: NetName=GND Pin=2VDX8-3
+Added Pin To Net: NetName=GND Pin=2VDX8-4
+Added Pin To Net: NetName=GND Pin=2VDX8-5
+Added Pin To Net: NetName=GND Pin=2VDX9-2
+Added Pin To Net: NetName=GND Pin=2VDX9-3
+Added Pin To Net: NetName=GND Pin=2VDX9-4
+Added Pin To Net: NetName=GND Pin=2VDX9-5
+Added Pin To Net: NetName=GND Pin=2VDX10-2
+Added Pin To Net: NetName=GND Pin=2VDX10-3
+Added Pin To Net: NetName=GND Pin=2VDX10-4
+Added Pin To Net: NetName=GND Pin=2VDX10-5
+Added Pin To Net: NetName=GND Pin=2VDX11-2
+Added Pin To Net: NetName=GND Pin=2VDX11-3
+Added Pin To Net: NetName=GND Pin=2VDX11-4
+Added Pin To Net: NetName=GND Pin=2VDX11-5
+Added Pin To Net: NetName=GND Pin=2VDXE1-2
+Added Pin To Net: NetName=GND Pin=2VDXE1-3
+Added Pin To Net: NetName=GND Pin=2VDXE1-4
+Added Pin To Net: NetName=GND Pin=2VDXE1-5
+Added Pin To Net: NetName=GND Pin=2VDXE2-2
+Added Pin To Net: NetName=GND Pin=2VDXE2-3
+Added Pin To Net: NetName=GND Pin=2VDXE2-4
+Added Pin To Net: NetName=GND Pin=2VDXE2-5
+Added Pin To Net: NetName=Net3.3V_REG_1 Pin=3.3V_REG-1
+Added Pin To Net: NetName=Net3.3V_REG_1 Pin=3.3V_REG-2
+Added Pin To Net: NetName=Net3.3V_REG_1 Pin=3.3V_REG-3
+Added Pin To Net: NetName=GND Pin=3.3V_REG-4
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=3.3V_REG-5
+Added Pin To Net: NetName=Net3.3V_REG_6 Pin=3.3V_REG-6
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=3.3V_REG-7
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=3.3V_REG-8
+Added Pin To Net: NetName=GND Pin=3.3V_REG-9
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-1
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-2
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-3
+Added Pin To Net: NetName=GND Pin=5V_REG-4
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=5V_REG-5
+Added Pin To Net: NetName=Net5V_REG_6 Pin=5V_REG-6
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=5V_REG-7
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=5V_REG-8
+Added Pin To Net: NetName=GND Pin=5V_REG-9
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=-5 Pin=B1-4
+Added Pin To Net: NetName=NetB1_2 Pin=B1-6
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_3 Pin=B2-3
+Added Pin To Net: NetName=-5 Pin=B2-4
+Added Pin To Net: NetName=NetB2_3 Pin=B2-5
+Added Pin To Net: NetName=NetB2_6 Pin=B2-6
+Added Pin To Net: NetName=NetB2_7 Pin=B2-7
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=NetB3_3 Pin=B3-3
+Added Pin To Net: NetName=-5 Pin=B3-4
+Added Pin To Net: NetName=NetB3_2 Pin=B3-6
+Added Pin To Net: NetName=NetB4_1 Pin=B4-1
+Added Pin To Net: NetName=NetB4_2 Pin=B4-2
+Added Pin To Net: NetName=NetB4_3 Pin=B4-3
+Added Pin To Net: NetName=-5 Pin=B4-4
+Added Pin To Net: NetName=NetB4_3 Pin=B4-5
+Added Pin To Net: NetName=NetB4_6 Pin=B4-6
+Added Pin To Net: NetName=NetB4_7 Pin=B4-7
+Added Pin To Net: NetName=NetB5_2 Pin=B5-2
+Added Pin To Net: NetName=NetB5_3 Pin=B5-3
+Added Pin To Net: NetName=-5 Pin=B5-4
+Added Pin To Net: NetName=NetB5_2 Pin=B5-6
+Added Pin To Net: NetName=NetB6_1 Pin=B6-1
+Added Pin To Net: NetName=NetB6_2 Pin=B6-2
+Added Pin To Net: NetName=NetB6_3 Pin=B6-3
+Added Pin To Net: NetName=-5 Pin=B6-4
+Added Pin To Net: NetName=NetB6_3 Pin=B6-5
+Added Pin To Net: NetName=NetB6_6 Pin=B6-6
+Added Pin To Net: NetName=NetB6_7 Pin=B6-7
+Added Pin To Net: NetName=NetB7_2 Pin=B7-2
+Added Pin To Net: NetName=NetB7_3 Pin=B7-3
+Added Pin To Net: NetName=-5 Pin=B7-4
+Added Pin To Net: NetName=NetB7_2 Pin=B7-6
+Added Pin To Net: NetName=NetB8_1 Pin=B8-1
+Added Pin To Net: NetName=NetB8_2 Pin=B8-2
+Added Pin To Net: NetName=NetB8_3 Pin=B8-3
+Added Pin To Net: NetName=-5 Pin=B8-4
+Added Pin To Net: NetName=NetB8_3 Pin=B8-5
+Added Pin To Net: NetName=NetB8_6 Pin=B8-6
+Added Pin To Net: NetName=NetB8_7 Pin=B8-7
+Added Pin To Net: NetName=NetB9_2 Pin=B9-2
+Added Pin To Net: NetName=NetB9_3 Pin=B9-3
+Added Pin To Net: NetName=-5 Pin=B9-4
+Added Pin To Net: NetName=NetB9_2 Pin=B9-6
+Added Pin To Net: NetName=NetB10_1 Pin=B10-1
+Added Pin To Net: NetName=NetB10_2 Pin=B10-2
+Added Pin To Net: NetName=NetB10_3 Pin=B10-3
+Added Pin To Net: NetName=-5 Pin=B10-4
+Added Pin To Net: NetName=NetB10_3 Pin=B10-5
+Added Pin To Net: NetName=NetB10_6 Pin=B10-6
+Added Pin To Net: NetName=NetB10_7 Pin=B10-7
+Added Pin To Net: NetName=NetB11_2 Pin=B11-2
+Added Pin To Net: NetName=NetB11_3 Pin=B11-3
+Added Pin To Net: NetName=-5 Pin=B11-4
+Added Pin To Net: NetName=NetB11_2 Pin=B11-6
+Added Pin To Net: NetName=NetB12_1 Pin=B12-1
+Added Pin To Net: NetName=NetB12_2 Pin=B12-2
+Added Pin To Net: NetName=NetB12_3 Pin=B12-3
+Added Pin To Net: NetName=-5 Pin=B12-4
+Added Pin To Net: NetName=NetB12_3 Pin=B12-5
+Added Pin To Net: NetName=NetB12_6 Pin=B12-6
+Added Pin To Net: NetName=NetB12_7 Pin=B12-7
+Added Pin To Net: NetName=NetB13_2 Pin=B13-2
+Added Pin To Net: NetName=NetB13_3 Pin=B13-3
+Added Pin To Net: NetName=-5 Pin=B13-4
+Added Pin To Net: NetName=NetB13_2 Pin=B13-6
+Added Pin To Net: NetName=NetB14_2 Pin=B14-2
+Added Pin To Net: NetName=NetB14_3 Pin=B14-3
+Added Pin To Net: NetName=-5 Pin=B14-4
+Added Pin To Net: NetName=NetB14_2 Pin=B14-6
+Added Pin To Net: NetName=NetB15_1 Pin=B15-1
+Added Pin To Net: NetName=NetB15_2 Pin=B15-2
+Added Pin To Net: NetName=NetB15_3 Pin=B15-3
+Added Pin To Net: NetName=-5 Pin=B15-4
+Added Pin To Net: NetName=NetB15_3 Pin=B15-5
+Added Pin To Net: NetName=NetB15_6 Pin=B15-6
+Added Pin To Net: NetName=NetB15_7 Pin=B15-7
+Added Pin To Net: NetName=NetB16_1 Pin=B16-1
+Added Pin To Net: NetName=NetB16_2 Pin=B16-2
+Added Pin To Net: NetName=NetB16_3 Pin=B16-3
+Added Pin To Net: NetName=-5 Pin=B16-4
+Added Pin To Net: NetName=NetB16_3 Pin=B16-5
+Added Pin To Net: NetName=NetB16_6 Pin=B16-6
+Added Pin To Net: NetName=NetB16_7 Pin=B16-7
+Added Pin To Net: NetName=NetB17_2 Pin=B17-2
+Added Pin To Net: NetName=NetB17_3 Pin=B17-3
+Added Pin To Net: NetName=-5 Pin=B17-4
+Added Pin To Net: NetName=NetB17_2 Pin=B17-6
+Added Pin To Net: NetName=NetB18_2 Pin=B18-2
+Added Pin To Net: NetName=NetB18_3 Pin=B18-3
+Added Pin To Net: NetName=-5 Pin=B18-4
+Added Pin To Net: NetName=NetB18_2 Pin=B18-6
+Added Pin To Net: NetName=NetB19_1 Pin=B19-1
+Added Pin To Net: NetName=NetB19_2 Pin=B19-2
+Added Pin To Net: NetName=NetB19_3 Pin=B19-3
+Added Pin To Net: NetName=-5 Pin=B19-4
+Added Pin To Net: NetName=NetB19_3 Pin=B19-5
+Added Pin To Net: NetName=NetB19_6 Pin=B19-6
+Added Pin To Net: NetName=NetB19_7 Pin=B19-7
+Added Pin To Net: NetName=NetB20_1 Pin=B20-1
+Added Pin To Net: NetName=NetB20_2 Pin=B20-2
+Added Pin To Net: NetName=NetB20_3 Pin=B20-3
+Added Pin To Net: NetName=-5 Pin=B20-4
+Added Pin To Net: NetName=NetB20_3 Pin=B20-5
+Added Pin To Net: NetName=NetB20_6 Pin=B20-6
+Added Pin To Net: NetName=NetB20_7 Pin=B20-7
+Added Pin To Net: NetName=NetB21_2 Pin=B21-2
+Added Pin To Net: NetName=NetB21_3 Pin=B21-3
+Added Pin To Net: NetName=-5 Pin=B21-4
+Added Pin To Net: NetName=NetB21_2 Pin=B21-6
+Added Pin To Net: NetName=NetB22_1 Pin=B22-1
+Added Pin To Net: NetName=NetB22_2 Pin=B22-2
+Added Pin To Net: NetName=NetB22_3 Pin=B22-3
+Added Pin To Net: NetName=-5 Pin=B22-4
+Added Pin To Net: NetName=NetB22_3 Pin=B22-5
+Added Pin To Net: NetName=NetB22_6 Pin=B22-6
+Added Pin To Net: NetName=NetB22_7 Pin=B22-7
+Added Pin To Net: NetName=SOL_G Pin=B23-3
+Added Pin To Net: NetName=-5 Pin=B23-4
+Added Pin To Net: NetName=BG Pin=B24-3
+Added Pin To Net: NetName=-5 Pin=B24-4
+Added Pin To Net: NetName=TG4 Pin=B25-3
+Added Pin To Net: NetName=-5 Pin=B25-4
+Added Pin To Net: NetName=TG6 Pin=B26-3
+Added Pin To Net: NetName=-5 Pin=B26-4
+Added Pin To Net: NetName=-5 Pin=B27-4
+Added Pin To Net: NetName=-5 Pin=B28-4
+Added Pin To Net: NetName=-5 Pin=B29-4
+Added Pin To Net: NetName=-5 Pin=B30-4
+Added Pin To Net: NetName=GND Pin=BG-2
+Added Pin To Net: NetName=GND Pin=BG-3
+Added Pin To Net: NetName=GND Pin=BG-4
+Added Pin To Net: NetName=GND Pin=BG-5
+Added Pin To Net: NetName=Net-5V_REG_9 Pin=C1-1
+Added Pin To Net: NetName=Net-5V_REG_10 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=c2-1
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=c2-2
+Added Pin To Net: NetName=GND Pin=c3-1
+Added Pin To Net: NetName=Net5V_REG_1 Pin=c3-2
+Added Pin To Net: NetName=GND Pin=c4-1
+Added Pin To Net: NetName=Net5V_REG_6 Pin=c4-2
+Added Pin To Net: NetName=GND Pin=c5-1
+Added Pin To Net: NetName=Net3.3V_REG_6 Pin=c5-2
+Added Pin To Net: NetName=GND Pin=c6-1
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=c6-2
+Added Pin To Net: NetName=NetB2_6 Pin=C7-1
+Added Pin To Net: NetName=NetB2_7 Pin=C7-2
+Added Pin To Net: NetName=NetB1_3 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=NetB4_6 Pin=C9-1
+Added Pin To Net: NetName=NetB4_7 Pin=C9-2
+Added Pin To Net: NetName=NetB3_3 Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=NetB6_6 Pin=C11-1
+Added Pin To Net: NetName=NetB6_7 Pin=C11-2
+Added Pin To Net: NetName=NetB5_3 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=NetB8_6 Pin=C13-1
+Added Pin To Net: NetName=NetB7_3 Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=NetB10_6 Pin=C15-1
+Added Pin To Net: NetName=NetB10_7 Pin=C15-2
+Added Pin To Net: NetName=NetB9_3 Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=NetB12_6 Pin=C17-1
+Added Pin To Net: NetName=NetB12_7 Pin=C17-2
+Added Pin To Net: NetName=NetB11_3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=NetB15_6 Pin=C19-1
+Added Pin To Net: NetName=NetB15_7 Pin=C19-2
+Added Pin To Net: NetName=NetB16_6 Pin=C20-1
+Added Pin To Net: NetName=NetB16_7 Pin=C20-2
+Added Pin To Net: NetName=NetB13_3 Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=NetB14_3 Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=NetB19_6 Pin=C23-1
+Added Pin To Net: NetName=NetB19_7 Pin=C23-2
+Added Pin To Net: NetName=NetB20_6 Pin=C24-1
+Added Pin To Net: NetName=NetB20_7 Pin=C24-2
+Added Pin To Net: NetName=GND Pin=c25-1
+Added Pin To Net: NetName=Net3.3V_REG_1 Pin=c25-2
+Added Pin To Net: NetName=NetB17_3 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=NetB18_3 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=NetB22_6 Pin=C28-1
+Added Pin To Net: NetName=NetB22_7 Pin=C28-2
+Added Pin To Net: NetName=NetB21_3 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=Ccp1-1
+Added Pin To Net: NetName=Net-5V_REG_5 Pin=Ccp1-2
+Added Pin To Net: NetName=NetB1_2 Pin=CH1_OUT-1
+Added Pin To Net: NetName=GND Pin=CH1_OUT-2
+Added Pin To Net: NetName=GND Pin=CH1_OUT-3
+Added Pin To Net: NetName=GND Pin=CH1_OUT-4
+Added Pin To Net: NetName=GND Pin=CH1_OUT-5
+Added Pin To Net: NetName=NetB3_2 Pin=CH2_OUT-1
+Added Pin To Net: NetName=GND Pin=CH2_OUT-2
+Added Pin To Net: NetName=GND Pin=CH2_OUT-3
+Added Pin To Net: NetName=GND Pin=CH2_OUT-4
+Added Pin To Net: NetName=GND Pin=CH2_OUT-5
+Added Pin To Net: NetName=NetB5_2 Pin=CH3_OUT-1
+Added Pin To Net: NetName=GND Pin=CH3_OUT-2
+Added Pin To Net: NetName=GND Pin=CH3_OUT-3
+Added Pin To Net: NetName=GND Pin=CH3_OUT-4
+Added Pin To Net: NetName=GND Pin=CH3_OUT-5
+Added Pin To Net: NetName=NetB7_2 Pin=CH4_OUT-1
+Added Pin To Net: NetName=GND Pin=CH4_OUT-2
+Added Pin To Net: NetName=GND Pin=CH4_OUT-3
+Added Pin To Net: NetName=GND Pin=CH4_OUT-4
+Added Pin To Net: NetName=GND Pin=CH4_OUT-5
+Added Pin To Net: NetName=NetB9_2 Pin=CH5_OUT-1
+Added Pin To Net: NetName=GND Pin=CH5_OUT-2
+Added Pin To Net: NetName=GND Pin=CH5_OUT-3
+Added Pin To Net: NetName=GND Pin=CH5_OUT-4
+Added Pin To Net: NetName=GND Pin=CH5_OUT-5
+Added Pin To Net: NetName=NetB11_2 Pin=CH6_OUT-1
+Added Pin To Net: NetName=GND Pin=CH6_OUT-2
+Added Pin To Net: NetName=GND Pin=CH6_OUT-3
+Added Pin To Net: NetName=GND Pin=CH6_OUT-4
+Added Pin To Net: NetName=GND Pin=CH6_OUT-5
+Added Pin To Net: NetName=NetB13_2 Pin=CH7_OUT-1
+Added Pin To Net: NetName=GND Pin=CH7_OUT-2
+Added Pin To Net: NetName=GND Pin=CH7_OUT-3
+Added Pin To Net: NetName=GND Pin=CH7_OUT-4
+Added Pin To Net: NetName=GND Pin=CH7_OUT-5
+Added Pin To Net: NetName=NetB18_2 Pin=CH8_OUT-1
+Added Pin To Net: NetName=GND Pin=CH8_OUT-2
+Added Pin To Net: NetName=GND Pin=CH8_OUT-3
+Added Pin To Net: NetName=GND Pin=CH8_OUT-4
+Added Pin To Net: NetName=GND Pin=CH8_OUT-5
+Added Pin To Net: NetName=NetB14_2 Pin=CH9_OUT-1
+Added Pin To Net: NetName=GND Pin=CH9_OUT-2
+Added Pin To Net: NetName=GND Pin=CH9_OUT-3
+Added Pin To Net: NetName=GND Pin=CH9_OUT-4
+Added Pin To Net: NetName=GND Pin=CH9_OUT-5
+Added Pin To Net: NetName=NetB17_2 Pin=CH10_OUT-1
+Added Pin To Net: NetName=GND Pin=CH10_OUT-2
+Added Pin To Net: NetName=GND Pin=CH10_OUT-3
+Added Pin To Net: NetName=GND Pin=CH10_OUT-4
+Added Pin To Net: NetName=GND Pin=CH10_OUT-5
+Added Pin To Net: NetName=NetB21_2 Pin=CH11_OUT-1
+Added Pin To Net: NetName=GND Pin=CH11_OUT-2
+Added Pin To Net: NetName=GND Pin=CH11_OUT-3
+Added Pin To Net: NetName=GND Pin=CH11_OUT-4
+Added Pin To Net: NetName=GND Pin=CH11_OUT-5
+Added Pin To Net: NetName=GND Pin=Cvin1-1
+Added Pin To Net: NetName=Net-5V_REG_3 Pin=Cvin1-2
+Added Pin To Net: NetName=GND Pin=E1-2
+Added Pin To Net: NetName=GND Pin=E1-3
+Added Pin To Net: NetName=GND Pin=E1-4
+Added Pin To Net: NetName=GND Pin=E1-5
+Added Pin To Net: NetName=GND Pin=E1_IN-2
+Added Pin To Net: NetName=GND Pin=E1_IN-3
+Added Pin To Net: NetName=GND Pin=E1_IN-4
+Added Pin To Net: NetName=GND Pin=E1_IN-5
+Added Pin To Net: NetName=GND Pin=E2_IN-2
+Added Pin To Net: NetName=GND Pin=E2_IN-3
+Added Pin To Net: NetName=GND Pin=E2_IN-4
+Added Pin To Net: NetName=GND Pin=E2_IN-5
+Added Pin To Net: NetName=GND Pin=E2_OUT-2
+Added Pin To Net: NetName=GND Pin=E2_OUT-3
+Added Pin To Net: NetName=GND Pin=E2_OUT-4
+Added Pin To Net: NetName=GND Pin=E2_OUT-5
+Added Pin To Net: NetName=GND Pin=I_BG-2
+Added Pin To Net: NetName=GND Pin=I_BG-3
+Added Pin To Net: NetName=GND Pin=I_BG-4
+Added Pin To Net: NetName=GND Pin=I_BG-5
+Added Pin To Net: NetName=GND Pin=I_SOL_G-2
+Added Pin To Net: NetName=GND Pin=I_SOL_G-3
+Added Pin To Net: NetName=GND Pin=I_SOL_G-4
+Added Pin To Net: NetName=GND Pin=I_SOL_G-5
+Added Pin To Net: NetName=GND Pin=I_TG4-2
+Added Pin To Net: NetName=GND Pin=I_TG4-3
+Added Pin To Net: NetName=GND Pin=I_TG4-4
+Added Pin To Net: NetName=GND Pin=I_TG4-5
+Added Pin To Net: NetName=GND Pin=I_TG6-2
+Added Pin To Net: NetName=GND Pin=I_TG6-3
+Added Pin To Net: NetName=GND Pin=I_TG6-4
+Added Pin To Net: NetName=GND Pin=I_TG6-5
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=J1-A1
+Added Pin To Net: NetName=GND Pin=LPF_E1_OUT-2
+Added Pin To Net: NetName=GND Pin=LPF_E1_OUT-3
+Added Pin To Net: NetName=GND Pin=LPF_E1_OUT-4
+Added Pin To Net: NetName=GND Pin=LPF_E1_OUT-5
+Added Pin To Net: NetName=GND Pin=LPF_E2_OUT-2
+Added Pin To Net: NetName=GND Pin=LPF_E2_OUT-3
+Added Pin To Net: NetName=GND Pin=LPF_E2_OUT-4
+Added Pin To Net: NetName=GND Pin=LPF_E2_OUT-5
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=Net-5V_REG_7 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetR39_1 Pin=R39-1
+Added Pin To Net: NetName=NetB2_6 Pin=R40-1
+Added Pin To Net: NetName=NetB2_2 Pin=R41-1
+Added Pin To Net: NetName=NetB2_7 Pin=R42-1
+Added Pin To Net: NetName=GND Pin=R43-1
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetB4_6 Pin=R45-1
+Added Pin To Net: NetName=NetB4_2 Pin=R46-1
+Added Pin To Net: NetName=NetB4_7 Pin=R47-1
+Added Pin To Net: NetName=GND Pin=R48-1
+Added Pin To Net: NetName=NetR49_1 Pin=R49-1
+Added Pin To Net: NetName=NetB6_6 Pin=R50-1
+Added Pin To Net: NetName=NetB6_2 Pin=R51-1
+Added Pin To Net: NetName=NetB6_7 Pin=R52-1
+Added Pin To Net: NetName=GND Pin=R53-1
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetB8_6 Pin=R55-1
+Added Pin To Net: NetName=NetB8_2 Pin=R56-1
+Added Pin To Net: NetName=NetB8_7 Pin=R57-1
+Added Pin To Net: NetName=GND Pin=R58-1
+Added Pin To Net: NetName=NetR59_1 Pin=R59-1
+Added Pin To Net: NetName=NetB10_6 Pin=R60-1
+Added Pin To Net: NetName=NetB10_2 Pin=R61-1
+Added Pin To Net: NetName=NetB10_7 Pin=R62-1
+Added Pin To Net: NetName=GND Pin=R63-1
+Added Pin To Net: NetName=NetR64_1 Pin=R64-1
+Added Pin To Net: NetName=NetB12_6 Pin=R65-1
+Added Pin To Net: NetName=NetB12_2 Pin=R66-1
+Added Pin To Net: NetName=NetB12_7 Pin=R67-1
+Added Pin To Net: NetName=GND Pin=R68-1
+Added Pin To Net: NetName=NetR69_1 Pin=R69-1
+Added Pin To Net: NetName=NetB15_6 Pin=R70-1
+Added Pin To Net: NetName=NetR71_1 Pin=R71-1
+Added Pin To Net: NetName=NetB16_6 Pin=R72-1
+Added Pin To Net: NetName=NetB15_2 Pin=R73-1
+Added Pin To Net: NetName=NetB16_2 Pin=R74-1
+Added Pin To Net: NetName=NetB15_7 Pin=R75-1
+Added Pin To Net: NetName=GND Pin=R76-1
+Added Pin To Net: NetName=NetB16_7 Pin=R77-1
+Added Pin To Net: NetName=GND Pin=R78-1
+Added Pin To Net: NetName=NetR79_1 Pin=R79-1
+Added Pin To Net: NetName=NetB19_6 Pin=R80-1
+Added Pin To Net: NetName=NetR81_1 Pin=R81-1
+Added Pin To Net: NetName=NetB20_6 Pin=R82-1
+Added Pin To Net: NetName=NetB19_2 Pin=R83-1
+Added Pin To Net: NetName=NetB20_2 Pin=R84-1
+Added Pin To Net: NetName=NetB19_7 Pin=R85-1
+Added Pin To Net: NetName=GND Pin=R86-1
+Added Pin To Net: NetName=NetB20_7 Pin=R87-1
+Added Pin To Net: NetName=GND Pin=R88-1
+Added Pin To Net: NetName=NetR89_1 Pin=R89-1
+Added Pin To Net: NetName=NetB22_6 Pin=R90-1
+Added Pin To Net: NetName=NetB22_2 Pin=R91-1
+Added Pin To Net: NetName=NetB22_7 Pin=R92-1
+Added Pin To Net: NetName=GND Pin=R93-1
+Added Pin To Net: NetName=Net-5V_REG_3 Pin=Rpu1-1
+Added Pin To Net: NetName=GND Pin=S_IN1-2
+Added Pin To Net: NetName=GND Pin=S_IN1-3
+Added Pin To Net: NetName=GND Pin=S_IN1-4
+Added Pin To Net: NetName=GND Pin=S_IN1-5
+Added Pin To Net: NetName=GND Pin=S_IN2-2
+Added Pin To Net: NetName=GND Pin=S_IN2-3
+Added Pin To Net: NetName=GND Pin=S_IN2-4
+Added Pin To Net: NetName=GND Pin=S_IN2-5
+Added Pin To Net: NetName=GND Pin=S_IN3-2
+Added Pin To Net: NetName=GND Pin=S_IN3-3
+Added Pin To Net: NetName=GND Pin=S_IN3-4
+Added Pin To Net: NetName=GND Pin=S_IN3-5
+Added Pin To Net: NetName=GND Pin=S_IN4-2
+Added Pin To Net: NetName=GND Pin=S_IN4-3
+Added Pin To Net: NetName=GND Pin=S_IN4-4
+Added Pin To Net: NetName=GND Pin=S_IN4-5
+Added Pin To Net: NetName=GND Pin=S_IN5-2
+Added Pin To Net: NetName=GND Pin=S_IN5-3
+Added Pin To Net: NetName=GND Pin=S_IN5-4
+Added Pin To Net: NetName=GND Pin=S_IN5-5
+Added Pin To Net: NetName=GND Pin=S_IN6-2
+Added Pin To Net: NetName=GND Pin=S_IN6-3
+Added Pin To Net: NetName=GND Pin=S_IN6-4
+Added Pin To Net: NetName=GND Pin=S_IN6-5
+Added Pin To Net: NetName=GND Pin=SOL_G-2
+Added Pin To Net: NetName=GND Pin=SOL_G-3
+Added Pin To Net: NetName=GND Pin=SOL_G-4
+Added Pin To Net: NetName=GND Pin=SOL_G-5
+Added Pin To Net: NetName=GND Pin=TG4-2
+Added Pin To Net: NetName=GND Pin=TG4-3
+Added Pin To Net: NetName=GND Pin=TG4-4
+Added Pin To Net: NetName=GND Pin=TG4-5
+Added Pin To Net: NetName=GND Pin=TG6-2
+Added Pin To Net: NetName=GND Pin=TG6-3
+Added Pin To Net: NetName=GND Pin=TG6-4
+Added Pin To Net: NetName=GND Pin=TG6-5
+Added Pin To Net: NetName=GND Pin=TIA_E1_OUT-2
+Added Pin To Net: NetName=GND Pin=TIA_E1_OUT-3
+Added Pin To Net: NetName=GND Pin=TIA_E1_OUT-4
+Added Pin To Net: NetName=GND Pin=TIA_E1_OUT-5
+Added Pin To Net: NetName=GND Pin=TIA_E2_OUT-2
+Added Pin To Net: NetName=GND Pin=TIA_E2_OUT-3
+Added Pin To Net: NetName=GND Pin=TIA_E2_OUT-4
+Added Pin To Net: NetName=GND Pin=TIA_E2_OUT-5
+Added Pin To Net: NetName=NetB2_3 Pin=VD1-1
+Added Pin To Net: NetName=GND Pin=VD1-2
+Added Pin To Net: NetName=GND Pin=VD1-3
+Added Pin To Net: NetName=GND Pin=VD1-4
+Added Pin To Net: NetName=GND Pin=VD1-5
+Added Pin To Net: NetName=NetB4_3 Pin=VD2-1
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD2-3
+Added Pin To Net: NetName=GND Pin=VD2-4
+Added Pin To Net: NetName=GND Pin=VD2-5
+Added Pin To Net: NetName=NetB6_3 Pin=VD3-1
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD3-3
+Added Pin To Net: NetName=GND Pin=VD3-4
+Added Pin To Net: NetName=GND Pin=VD3-5
+Added Pin To Net: NetName=NetB8_3 Pin=VD4-1
+Added Pin To Net: NetName=GND Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD4-3
+Added Pin To Net: NetName=GND Pin=VD4-4
+Added Pin To Net: NetName=GND Pin=VD4-5
+Added Pin To Net: NetName=NetB10_3 Pin=VD5-1
+Added Pin To Net: NetName=GND Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD5-3
+Added Pin To Net: NetName=GND Pin=VD5-4
+Added Pin To Net: NetName=GND Pin=VD5-5
+Added Pin To Net: NetName=NetB12_3 Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=VD6-2
+Added Pin To Net: NetName=GND Pin=VD6-3
+Added Pin To Net: NetName=GND Pin=VD6-4
+Added Pin To Net: NetName=GND Pin=VD6-5
+Added Pin To Net: NetName=GND Pin=VD7-2
+Added Pin To Net: NetName=GND Pin=VD7-3
+Added Pin To Net: NetName=GND Pin=VD7-4
+Added Pin To Net: NetName=GND Pin=VD7-5
+Added Pin To Net: NetName=GND Pin=VD8-2
+Added Pin To Net: NetName=GND Pin=VD8-3
+Added Pin To Net: NetName=GND Pin=VD8-4
+Added Pin To Net: NetName=GND Pin=VD8-5
+Added Pin To Net: NetName=GND Pin=VD9-2
+Added Pin To Net: NetName=GND Pin=VD9-3
+Added Pin To Net: NetName=GND Pin=VD9-4
+Added Pin To Net: NetName=GND Pin=VD9-5
+Added Pin To Net: NetName=GND Pin=VD10-2
+Added Pin To Net: NetName=GND Pin=VD10-3
+Added Pin To Net: NetName=GND Pin=VD10-4
+Added Pin To Net: NetName=GND Pin=VD10-5
+Added Pin To Net: NetName=NetB22_3 Pin=VD11-1
+Added Pin To Net: NetName=GND Pin=VD11-2
+Added Pin To Net: NetName=GND Pin=VD11-3
+Added Pin To Net: NetName=GND Pin=VD11-4
+Added Pin To Net: NetName=GND Pin=VD11-5
+Added Pin To Net: NetName=GND Pin=VD_E1-2
+Added Pin To Net: NetName=GND Pin=VD_E1-3
+Added Pin To Net: NetName=GND Pin=VD_E1-4
+Added Pin To Net: NetName=GND Pin=VD_E1-5
+Added Pin To Net: NetName=GND Pin=VD_E2-2
+Added Pin To Net: NetName=GND Pin=VD_E2-3
+Added Pin To Net: NetName=GND Pin=VD_E2-4
+Added Pin To Net: NetName=GND Pin=VD_E2-5
+Added Pin To Net: NetName=NetR39_1 Pin=X1-1
+Added Pin To Net: NetName=NetB2_1 Pin=X1-3
+Added Pin To Net: NetName=NetR44_1 Pin=X2-1
+Added Pin To Net: NetName=NetB4_1 Pin=X2-3
+Added Pin To Net: NetName=NetR49_1 Pin=X3-1
+Added Pin To Net: NetName=NetB6_1 Pin=X3-3
+Added Pin To Net: NetName=NetR54_1 Pin=X4-1
+Added Pin To Net: NetName=NetB8_1 Pin=X4-3
+Added Pin To Net: NetName=NetR59_1 Pin=X5-1
+Added Pin To Net: NetName=NetB10_1 Pin=X5-3
+Added Pin To Net: NetName=NetR64_1 Pin=X6-1
+Added Pin To Net: NetName=NetB12_1 Pin=X6-3
+Added Pin To Net: NetName=NetR69_1 Pin=X7-1
+Added Pin To Net: NetName=NetB15_1 Pin=X7-3
+Added Pin To Net: NetName=NetR71_1 Pin=X8-1
+Added Pin To Net: NetName=NetB16_1 Pin=X8-3
+Added Pin To Net: NetName=NetR79_1 Pin=X9-1
+Added Pin To Net: NetName=NetB19_1 Pin=X9-3
+Added Pin To Net: NetName=NetR81_1 Pin=X10-1
+Added Pin To Net: NetName=NetB20_1 Pin=X10-3
+Added Pin To Net: NetName=NetR89_1 Pin=X11-1
+Added Pin To Net: NetName=NetB22_1 Pin=X11-3
+Added Pin To Net: NetName=NetB2_6 Pin=X12-3
+Added Pin To Net: NetName=D1-1 Pin=X12-5
+Added Pin To Net: NetName=D2-1 Pin=X12-6
+Added Pin To Net: NetName=NetB15_6 Pin=X13-3
+Added Pin To Net: NetName=D7-2 Pin=X13-5
+Added Pin To Net: NetName=D8-2 Pin=X13-6
+Added Pin To Net: NetName=S1 Pin=X14-5
+Added Pin To Net: NetName=S2 Pin=X14-6
+Added Pin To Net: NetName=S5 Pin=X15-5
+Added Pin To Net: NetName=S6 Pin=X15-6
+Added Pin To Net: NetName=S9 Pin=X16-5
+Added Pin To Net: NetName=S10 Pin=X16-6
+Added Pin To Net: NetName=NetB4_6 Pin=X17-3
+Added Pin To Net: NetName=D3-1 Pin=X17-5
+Added Pin To Net: NetName=D4-1 Pin=X17-6
+Added Pin To Net: NetName=NetB20_6 Pin=X18-3
+Added Pin To Net: NetName=D5-1 Pin=X18-5
+Added Pin To Net: NetName=D6-1 Pin=X18-6
+Added Pin To Net: NetName=S3 Pin=X19-5
+Added Pin To Net: NetName=S4 Pin=X19-6
+Added Pin To Net: NetName=S7 Pin=X20-5
+Added Pin To Net: NetName=S8 Pin=X20-6
+Added Pin To Net: NetName=S11 Pin=X21-3
+Added Pin To Net: NetName=NetB6_6 Pin=X22-3
+Added Pin To Net: NetName=D1-2 Pin=X22-5
+Added Pin To Net: NetName=D2-2 Pin=X22-6
+Added Pin To Net: NetName=NetB16_6 Pin=X23-3
+Added Pin To Net: NetName=D10-1 Pin=X23-5
+Added Pin To Net: NetName=D11-1 Pin=X23-6
+Added Pin To Net: NetName=NetB8_6 Pin=X24-3
+Added Pin To Net: NetName=D3-2 Pin=X24-5
+Added Pin To Net: NetName=D4-2 Pin=X24-6
+Added Pin To Net: NetName=NetB19_6 Pin=X25-3
+Added Pin To Net: NetName=D5-2 Pin=X25-5
+Added Pin To Net: NetName=D6-2 Pin=X25-6
+Added Pin To Net: NetName=NetB10_6 Pin=X26-3
+Added Pin To Net: NetName=D7-1 Pin=X26-5
+Added Pin To Net: NetName=D8-1 Pin=X26-6
+Added Pin To Net: NetName=NetB22_6 Pin=X27-3
+Added Pin To Net: NetName=D10-2 Pin=X27-5
+Added Pin To Net: NetName=D11-2 Pin=X27-6
+Added Pin To Net: NetName=NetB12_6 Pin=X28-3
+Added Pin To Net: NetName=D9-1 Pin=X28-5
+Added Pin To Net: NetName=D9-2 Pin=X28-6
+Added Pin To Net: NetName=+5 Pin=B1-7
+Added Pin To Net: NetName=+5 Pin=B2-8
+Added Pin To Net: NetName=+5 Pin=B3-7
+Added Pin To Net: NetName=+5 Pin=B4-8
+Added Pin To Net: NetName=+5 Pin=B5-7
+Added Pin To Net: NetName=+5 Pin=B6-8
+Added Pin To Net: NetName=+5 Pin=B7-7
+Added Pin To Net: NetName=+5 Pin=B8-8
+Added Pin To Net: NetName=+5 Pin=B9-7
+Added Pin To Net: NetName=+5 Pin=B10-8
+Added Pin To Net: NetName=+5 Pin=B11-7
+Added Pin To Net: NetName=+5 Pin=B12-8
+Added Pin To Net: NetName=+5 Pin=B13-7
+Added Pin To Net: NetName=+5 Pin=B14-7
+Added Pin To Net: NetName=+5 Pin=B15-8
+Added Pin To Net: NetName=+5 Pin=B16-8
+Added Pin To Net: NetName=+5 Pin=B17-7
+Added Pin To Net: NetName=+5 Pin=B18-7
+Added Pin To Net: NetName=+5 Pin=B19-8
+Added Pin To Net: NetName=+5 Pin=B20-8
+Added Pin To Net: NetName=+5 Pin=B21-7
+Added Pin To Net: NetName=+5 Pin=B22-8
+Added Pin To Net: NetName=+5 Pin=B23-7
+Added Pin To Net: NetName=+5 Pin=B24-7
+Added Pin To Net: NetName=+5 Pin=B25-7
+Added Pin To Net: NetName=+5 Pin=B26-7
+Added Pin To Net: NetName=+5 Pin=B27-7
+Added Pin To Net: NetName=+5 Pin=B28-8
+Added Pin To Net: NetName=+5 Pin=B29-7
+Added Pin To Net: NetName=+5 Pin=B30-8
+Added Net: Name=+5
+Added Pin To Net: NetName=Net2VDX1_1 Pin=2VDX1-1
+Added Pin To Net: NetName=Net2VDX1_1 Pin=X1-2
+Added Net: Name=Net2VDX1_1
+Added Pin To Net: NetName=Net2VDX2_1 Pin=2VDX2-1
+Added Pin To Net: NetName=Net2VDX2_1 Pin=X2-2
+Added Net: Name=Net2VDX2_1
+Added Pin To Net: NetName=Net2VDX3_1 Pin=2VDX3-1
+Added Pin To Net: NetName=Net2VDX3_1 Pin=X3-2
+Added Net: Name=Net2VDX3_1
+Added Pin To Net: NetName=Net2VDX4_1 Pin=2VDX4-1
+Added Pin To Net: NetName=Net2VDX4_1 Pin=X4-2
+Added Net: Name=Net2VDX4_1
+Added Pin To Net: NetName=Net2VDX5_1 Pin=2VDX5-1
+Added Pin To Net: NetName=Net2VDX5_1 Pin=X5-2
+Added Net: Name=Net2VDX5_1
+Added Pin To Net: NetName=Net2VDX6_1 Pin=2VDX6-1
+Added Pin To Net: NetName=Net2VDX6_1 Pin=X6-2
+Added Net: Name=Net2VDX6_1
+Added Pin To Net: NetName=Net2VDX7_1 Pin=2VDX7-1
+Added Pin To Net: NetName=Net2VDX7_1 Pin=X7-2
+Added Net: Name=Net2VDX7_1
+Added Pin To Net: NetName=Net2VDX8_1 Pin=2VDX8-1
+Added Pin To Net: NetName=Net2VDX8_1 Pin=X9-2
+Added Pin To Net: NetName=Net2VDX8_1 Pin=X10-2
+Added Net: Name=Net2VDX8_1
+Added Pin To Net: NetName=Net2VDX9_1 Pin=2VDX9-1
+Added Pin To Net: NetName=Net2VDX9_1 Pin=X8-2
+Added Net: Name=Net2VDX9_1
+Added Pin To Net: NetName=Net2VDX10_1 Pin=2VDX10-1
+Added Net: Name=Net2VDX10_1
+Added Pin To Net: NetName=Net2VDX11_1 Pin=2VDX11-1
+Added Pin To Net: NetName=Net2VDX11_1 Pin=X11-2
+Added Net: Name=Net2VDX11_1
+Added Pin To Net: NetName=Net2VDXE1_1 Pin=2VDXE1-1
+Added Pin To Net: NetName=Net2VDXE1_1 Pin=X29-2
+Added Net: Name=Net2VDXE1_1
+Added Pin To Net: NetName=Net2VDXE2_1 Pin=2VDXE2-1
+Added Pin To Net: NetName=Net2VDXE2_1 Pin=X30-2
+Added Net: Name=Net2VDXE2_1
+Added Pin To Net: NetName=NetB23_2 Pin=B23-2
+Added Pin To Net: NetName=NetB23_2 Pin=B23-6
+Added Pin To Net: NetName=NetB23_2 Pin=I_SOL_G-1
+Added Net: Name=NetB23_2
+Added Pin To Net: NetName=NetB24_2 Pin=B24-2
+Added Pin To Net: NetName=NetB24_2 Pin=B24-6
+Added Pin To Net: NetName=NetB24_2 Pin=I_BG-1
+Added Net: Name=NetB24_2
+Added Pin To Net: NetName=NetB25_2 Pin=B25-2
+Added Pin To Net: NetName=NetB25_2 Pin=B25-6
+Added Pin To Net: NetName=NetB25_2 Pin=I_TG4-1
+Added Net: Name=NetB25_2
+Added Pin To Net: NetName=NetB26_2 Pin=B26-2
+Added Pin To Net: NetName=NetB26_2 Pin=B26-6
+Added Pin To Net: NetName=NetB26_2 Pin=I_TG6-1
+Added Net: Name=NetB26_2
+Added Pin To Net: NetName=NetB27_2 Pin=B27-2
+Added Pin To Net: NetName=NetB27_2 Pin=B27-6
+Added Pin To Net: NetName=NetB27_2 Pin=E1-1
+Added Net: Name=NetB27_2
+Added Pin To Net: NetName=NetB27_3 Pin=B27-3
+Added Pin To Net: NetName=NetB27_3 Pin=C31-1
+Added Pin To Net: NetName=NetB27_3 Pin=LPF_E1_OUT-1
+Added Net: Name=NetB27_3
+Added Pin To Net: NetName=NetB28_1 Pin=B28-1
+Added Pin To Net: NetName=NetB28_1 Pin=X29-3
+Added Net: Name=NetB28_1
+Added Pin To Net: NetName=NetB28_2 Pin=B28-2
+Added Pin To Net: NetName=NetB28_2 Pin=R9-1
+Added Net: Name=NetB28_2
+Added Pin To Net: NetName=NetB28_3 Pin=B28-3
+Added Pin To Net: NetName=NetB28_3 Pin=B28-5
+Added Pin To Net: NetName=NetB28_3 Pin=VD_E1-1
+Added Net: Name=NetB28_3
+Added Pin To Net: NetName=NetB28_6 Pin=B28-6
+Added Pin To Net: NetName=NetB28_6 Pin=C30-1
+Added Pin To Net: NetName=NetB28_6 Pin=E1_IN-1
+Added Pin To Net: NetName=NetB28_6 Pin=R8-1
+Added Net: Name=NetB28_6
+Added Pin To Net: NetName=NetB28_7 Pin=B28-7
+Added Pin To Net: NetName=NetB28_7 Pin=C30-2
+Added Pin To Net: NetName=NetB28_7 Pin=R10-1
+Added Pin To Net: NetName=NetB28_7 Pin=TIA_E1_OUT-1
+Added Net: Name=NetB28_7
+Added Pin To Net: NetName=NetB29_2 Pin=B29-2
+Added Pin To Net: NetName=NetB29_2 Pin=B29-6
+Added Pin To Net: NetName=NetB29_2 Pin=E2_OUT-1
+Added Net: Name=NetB29_2
+Added Pin To Net: NetName=NetB29_3 Pin=B29-3
+Added Pin To Net: NetName=NetB29_3 Pin=C33-1
+Added Pin To Net: NetName=NetB29_3 Pin=LPF_E2_OUT-1
+Added Net: Name=NetB29_3
+Added Pin To Net: NetName=NetB30_1 Pin=B30-1
+Added Pin To Net: NetName=NetB30_1 Pin=X30-3
+Added Net: Name=NetB30_1
+Added Pin To Net: NetName=NetB30_2 Pin=B30-2
+Added Pin To Net: NetName=NetB30_2 Pin=R14-1
+Added Net: Name=NetB30_2
+Added Pin To Net: NetName=NetB30_3 Pin=B30-3
+Added Pin To Net: NetName=NetB30_3 Pin=B30-5
+Added Pin To Net: NetName=NetB30_3 Pin=VD_E2-1
+Added Net: Name=NetB30_3
+Added Pin To Net: NetName=NetB30_6 Pin=B30-6
+Added Pin To Net: NetName=NetB30_6 Pin=C32-1
+Added Pin To Net: NetName=NetB30_6 Pin=E2_IN-1
+Added Pin To Net: NetName=NetB30_6 Pin=R13-1
+Added Net: Name=NetB30_6
+Added Pin To Net: NetName=NetB30_7 Pin=B30-7
+Added Pin To Net: NetName=NetB30_7 Pin=C32-2
+Added Pin To Net: NetName=NetB30_7 Pin=R15-1
+Added Pin To Net: NetName=NetB30_7 Pin=TIA_E2_OUT-1
+Added Net: Name=NetB30_7
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=X29-1
+Added Net: Name=NetR7_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=X30-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetS_IN1_1 Pin=S_IN1-1
+Added Pin To Net: NetName=NetS_IN1_1 Pin=X14-3
+Added Net: Name=NetS_IN1_1
+Added Pin To Net: NetName=NetS_IN2_1 Pin=S_IN2-1
+Added Pin To Net: NetName=NetS_IN2_1 Pin=X19-3
+Added Net: Name=NetS_IN2_1
+Added Pin To Net: NetName=NetS_IN3_1 Pin=S_IN3-1
+Added Pin To Net: NetName=NetS_IN3_1 Pin=X15-3
+Added Net: Name=NetS_IN3_1
+Added Pin To Net: NetName=NetS_IN4_1 Pin=S_IN4-1
+Added Pin To Net: NetName=NetS_IN4_1 Pin=X20-3
+Added Net: Name=NetS_IN4_1
+Added Pin To Net: NetName=NetS_IN5_1 Pin=S_IN5-1
+Added Pin To Net: NetName=NetS_IN5_1 Pin=X16-3
+Added Net: Name=NetS_IN5_1
+Added Pin To Net: NetName=NetS_IN6_1 Pin=S_IN6-1
+Added Pin To Net: NetName=NetS_IN6_1 Pin=X21-2
+Added Net: Name=NetS_IN6_1
+Added Class: Name=gate
+Added Member To Class: ClassName=read_out Member=Component *1 HSEC8-120-01-S-RA-TR
+Added Member To Class: ClassName=read_out Member=Component -5V_REG LM27762
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX1 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX2 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX3 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX4 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX5 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX6 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX7 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX8 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX9 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX10 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component 2VDX11 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component 3.3V_REG ADP7118ARDZ-3.3-R7
+Added Member To Class: ClassName=read_out Member=Component 5V_REG ADP7118ARDZ-5.0-R7
+Added Member To Class: ClassName=Amplify Member=Component B1 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B2 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify Member=Component B3 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B4 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify Member=Component B5 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B6 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify Member=Component B7 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B8 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify Member=Component B9 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B10 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify Member=Component B11 AD8541ARZ
+Added Member To Class: ClassName=Amplify Member=Component B12 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify2 Member=Component B13 AD8541ARZ
+Added Member To Class: ClassName=Amplify2 Member=Component B14 AD8541ARZ
+Added Member To Class: ClassName=Amplify2 Member=Component B15 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify2 Member=Component B16 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify2 Member=Component B17 AD8541ARZ
+Added Member To Class: ClassName=Amplify2 Member=Component B18 AD8541ARZ
+Added Member To Class: ClassName=Amplify2 Member=Component B19 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify2 Member=Component B20 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=Amplify2 Member=Component B21 AD8541ARZ
+Added Member To Class: ClassName=Amplify2 Member=Component B22 ADA4610-2ARZ-R7
+Added Member To Class: ClassName=read_out Member=Component C1 1uf
+Added Member To Class: ClassName=read_out Member=Component c2 2.2u
+Added Member To Class: ClassName=read_out Member=Component c3 2.2u
+Added Member To Class: ClassName=read_out Member=Component c4 2.2u
+Added Member To Class: ClassName=read_out Member=Component c5 2.2u
+Added Member To Class: ClassName=read_out Member=Component c6 2.2u
+Added Member To Class: ClassName=Amplify Member=Component C7 10p
+Added Member To Class: ClassName=Amplify Member=Component C8 80n
+Added Member To Class: ClassName=Amplify Member=Component C9 10p
+Added Member To Class: ClassName=Amplify Member=Component C10 80n
+Added Member To Class: ClassName=Amplify Member=Component C11 10p
+Added Member To Class: ClassName=Amplify Member=Component C12 80n
+Added Member To Class: ClassName=Amplify Member=Component C13 10p
+Added Member To Class: ClassName=Amplify Member=Component C14 80n
+Added Member To Class: ClassName=Amplify Member=Component C15 10p
+Added Member To Class: ClassName=Amplify Member=Component C16 80n
+Added Member To Class: ClassName=Amplify Member=Component C17 10p
+Added Member To Class: ClassName=Amplify Member=Component C18 80n
+Added Member To Class: ClassName=Amplify2 Member=Component C19 10p
+Added Member To Class: ClassName=Amplify2 Member=Component C20 10p
+Added Member To Class: ClassName=Amplify2 Member=Component C21 80n
+Added Member To Class: ClassName=Amplify2 Member=Component C22 80n
+Added Member To Class: ClassName=Amplify2 Member=Component C23 10p
+Added Member To Class: ClassName=Amplify2 Member=Component C24 10p
+Added Member To Class: ClassName=read_out Member=Component c25 2.2u
+Added Member To Class: ClassName=Amplify2 Member=Component C26 80n
+Added Member To Class: ClassName=Amplify2 Member=Component C27 80n
+Added Member To Class: ClassName=Amplify2 Member=Component C28 10p
+Added Member To Class: ClassName=Amplify2 Member=Component C29 80n
+Added Member To Class: ClassName=read_out Member=Component Ccp1 4.7uf
+Added Member To Class: ClassName=read_out Member=Component CH1_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH2_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH3_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH4_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH5_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH6_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH7_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH8_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH9_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH10_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component CH11_OUT SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=read_out Member=Component Cvin1 10uf
+Added Member To Class: ClassName=read_out Member=Component J1 PJ-002AH-SMT-TR
+Added Member To Class: ClassName=read_out Member=Component R4 50k
+Added Member To Class: ClassName=read_out Member=Component R5 155k
+Added Member To Class: ClassName=Amplify Member=Component R39 110k
+Added Member To Class: ClassName=Amplify Member=Component R40 110k
+Added Member To Class: ClassName=Amplify Member=Component R41 110k
+Added Member To Class: ClassName=Amplify Member=Component R42 10k
+Added Member To Class: ClassName=Amplify Member=Component R43 110k
+Added Member To Class: ClassName=Amplify Member=Component R44 110k
+Added Member To Class: ClassName=Amplify Member=Component R45 110k
+Added Member To Class: ClassName=Amplify Member=Component R46 110k
+Added Member To Class: ClassName=Amplify Member=Component R47 10k
+Added Member To Class: ClassName=Amplify Member=Component R48 110k
+Added Member To Class: ClassName=Amplify Member=Component R49 110k
+Added Member To Class: ClassName=Amplify Member=Component R50 110k
+Added Member To Class: ClassName=Amplify Member=Component R51 110k
+Added Member To Class: ClassName=Amplify Member=Component R52 10k
+Added Member To Class: ClassName=Amplify Member=Component R53 110k
+Added Member To Class: ClassName=Amplify Member=Component R54 110k
+Added Member To Class: ClassName=Amplify Member=Component R55 110k
+Added Member To Class: ClassName=Amplify Member=Component R56 110k
+Added Member To Class: ClassName=Amplify Member=Component R57 10k
+Added Member To Class: ClassName=Amplify Member=Component R58 110k
+Added Member To Class: ClassName=Amplify Member=Component R59 110k
+Added Member To Class: ClassName=Amplify Member=Component R60 110k
+Added Member To Class: ClassName=Amplify Member=Component R61 110k
+Added Member To Class: ClassName=Amplify Member=Component R62 10k
+Added Member To Class: ClassName=Amplify Member=Component R63 110k
+Added Member To Class: ClassName=Amplify Member=Component R64 110k
+Added Member To Class: ClassName=Amplify Member=Component R65 110k
+Added Member To Class: ClassName=Amplify Member=Component R66 110k
+Added Member To Class: ClassName=Amplify Member=Component R67 10k
+Added Member To Class: ClassName=Amplify Member=Component R68 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R69 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R70 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R71 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R72 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R73 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R74 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R75 10k
+Added Member To Class: ClassName=Amplify2 Member=Component R76 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R77 10k
+Added Member To Class: ClassName=Amplify2 Member=Component R78 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R79 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R80 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R81 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R82 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R83 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R84 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R85 10k
+Added Member To Class: ClassName=Amplify2 Member=Component R86 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R87 10k
+Added Member To Class: ClassName=Amplify2 Member=Component R88 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R89 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R90 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R91 110k
+Added Member To Class: ClassName=Amplify2 Member=Component R92 10k
+Added Member To Class: ClassName=Amplify2 Member=Component R93 110k
+Added Member To Class: ClassName=read_out Member=Component Rpu1 100 k¦¸
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN1 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN2 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN3 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN4 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN5 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify2 Member=Component S_IN6 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD1 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD2 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD3 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD4 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD5 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD6 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD7 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD8 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD9 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD10 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component VD11 SMA-J-P-H-ST-TH1
+Added Member To Class: ClassName=Amplify Member=Component X1 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify Member=Component X2 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify Member=Component X3 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify Member=Component X4 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify Member=Component X5 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify Member=Component X6 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify2 Member=Component X7 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify2 Member=Component X8 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify2 Member=Component X9 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify2 Member=Component X10 MSS-102545-28A-D
+Added Member To Class: ClassName=Amplify2 Member=Component X11 MSS-102545-28A-D
+Added Member To Class: ClassName=read_out Member=Component X12 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X13 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X14 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X15 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X16 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X17 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X18 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X19 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X20 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X21 SLW-1277744-3A-N-D
+Added Member To Class: ClassName=read_out Member=Component X22 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X23 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X24 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X25 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X26 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X27 SLW-1477944-3A-S-D
+Added Member To Class: ClassName=read_out Member=Component X28 SLW-1477944-3A-S-D
+Added Room: Name=Amplify2
+Added Room: Name=Amplify
+Added Room: Name=gate
+Added Room: Name=read_out

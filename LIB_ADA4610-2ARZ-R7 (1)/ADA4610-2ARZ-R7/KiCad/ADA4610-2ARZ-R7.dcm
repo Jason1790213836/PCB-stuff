@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4610-2ARZ-R7
+D Low Noise, Precision, Rail-to-Rail Output, JFET Dual Op Amp +/-5 V to +/-15 V 40C to +125C
+K
+F https://www.analog.com/ADA4610-2/datasheet
+$ENDCMP
+#
+#End Doc Library

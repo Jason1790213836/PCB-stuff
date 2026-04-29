@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADA4610-2ARZ-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2025-05-15 03:25:31
+Downloaded=2025-11-24 01:09:51
+3D=Y

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TCK Pin=JTAG-1
+Removed Pin From Net: NetName=TMS Pin=JTAG-3
+Removed Pin From Net: NetName=TDI Pin=JTAG-5
+Removed Pin From Net: NetName=TDO Pin=JTAG-7
+Added Pin To Net: NetName=TDO Pin=JTAG-1
+Added Pin To Net: NetName=TDI Pin=JTAG-3
+Added Pin To Net: NetName=TMS Pin=JTAG-5
+Added Pin To Net: NetName=TCK Pin=JTAG-7
+Added Pin To Net: NetName=NetB39_4 Pin=B39-4
+Added Pin To Net: NetName=NetB39_4 Pin=JTAG-8
+Added Net: Name=NetB39_4

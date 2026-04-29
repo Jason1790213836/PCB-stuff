@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADG884BRMZ
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=4.1
+Released=2020-12-29 13:13:58
+Downloaded=2025-11-05 21:01:31
+3D=Y

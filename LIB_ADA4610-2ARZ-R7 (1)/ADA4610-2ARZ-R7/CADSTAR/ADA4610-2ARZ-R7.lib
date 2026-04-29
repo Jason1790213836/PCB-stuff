@@ -1,0 +1,16 @@
+.ADA4610-2ARZ-R7 :1 ;Low Noise, Precision, Rail-to-Rail Output, JFET Dual Op Amp +/-5 V to +/-15 V 40C to +125C
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="OUT A" 2="-IN A" 3="+IN A" 4="V-" 5="+IN B" 6="-IN B" 7="OUT B" 8="V+"
+*MXP 8
+*DFN ADA4610-2ARZ-R7
+~!Mouser Part Number (584-ADA4610-2ARZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADA4610-2ARZ-R7)
+~!Link Datasheet (https://www.analog.com/ADA4610-2/datasheet)
+~!Height (1.75mm)
+~!3D_Model (ADA4610-2ARZ-R7)
+ADA4610-2ARZ-R7
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

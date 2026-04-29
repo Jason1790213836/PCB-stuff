@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADA4610_2ARZ_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADA4610-2ARZ-R7" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "584-ADA4610-2ARZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADA4610-2ARZ-R7?qs=BpaRKvA4VqEBfMREioRxEg%3D%3D", "Low Noise, Precision, Rail-to-Rail Output, JFET Dual Op Amp +/-5 V to +/-15 V 40C to +125C", "https://www.analog.com/ADA4610-2/datasheet", "1.75 mm"
+END_PART
+
+END.

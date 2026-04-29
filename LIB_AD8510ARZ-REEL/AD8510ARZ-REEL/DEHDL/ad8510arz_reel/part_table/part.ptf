@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AD8510ARZ_REEL'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "AD8510ARZ-REEL" (!) = "", "SOIC127P600X175-8N", "Small Outline Packages", "584-AD8510ARZ-R", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8510ARZ-REEL?qs=%2FtpEQrCGXCwXL7drMaFeVQ%3D%3D", "Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Single Operational Amplifier", "https://www.analog.com/AD8510/datasheet", "1.75 mm"
+END_PART
+
+END.

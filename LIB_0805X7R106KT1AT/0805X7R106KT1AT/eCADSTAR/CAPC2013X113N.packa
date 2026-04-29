@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "0805X7R106KT1AT"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-02-07-06:53:37)
+    (mountForm default
+        (footprintRef "CAPC2013X113N")
+        (spec "System")
+    )
+)

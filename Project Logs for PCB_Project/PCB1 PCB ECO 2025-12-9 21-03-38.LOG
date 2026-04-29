@@ -1,0 +1,6 @@
+Change Component Comment : Designator=Cvin1 Old Comment=0805X7R106KT1AT New Comment=2.2u
+Added Component: Designator=C28(0805X7R106KT1AT)
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=Net-5V_REG_11 Pin=-5V_REG-11
+Added Pin To Net: NetName=Net-5V_REG_11 Pin=C28-2
+Added Net: Name=Net-5V_REG_11

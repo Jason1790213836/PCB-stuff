@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19242009"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-29-03:07:28)
+    (utime 2025-01-29-03:07:28)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "0805X7R106KT1AT")
+)
+
+
+(pinAssign "ECS_19242009"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-29-03:07:28)
+    (utime 2025-01-29-03:07:28)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19242009")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "0805X7R106KT1AT")
+)
+
+
+(part "0805X7R106KT1AT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2025-01-29-03:07:28)
+    (utime 2025-01-29-03:07:28)
+    (packageRef "0805X7R106KT1AT")
+    (pinAssignRef "ECS_19242009")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP-RESALE")
+    (property "Mouser_Part_Number" "581-0805X7R106KT1AT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/0805X7R106KT1AT?qs=XAiT9M5g4x%252Bo4s7i6ql7Og%3D%3D")
+    (property "Manufacturer_Name" "Kyocera AVX")
+    (property "Manufacturer_Part_Number" "0805X7R106KT1AT")
+    (property "Datasheet_Link" "https://datasheets.kyocera-avx.com/Accu-P.pdf")
+    (property "compAreaTopHeight" 1.13)
+)
+
+

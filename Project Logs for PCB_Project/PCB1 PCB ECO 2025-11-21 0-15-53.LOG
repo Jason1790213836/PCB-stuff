@@ -1,0 +1,19 @@
+Added Component: Designator=JTAG(CONN_7024614xx_MOL)
+Add Pin To Net: Unknown Pin: Pin JTAG-01
+Add Pin To Net: Unknown Pin: Pin JTAG-03
+Add Pin To Net: Unknown Pin: Pin JTAG-04
+Add Pin To Net: Unknown Pin: Pin JTAG-05
+Add Pin To Net: Unknown Pin: Pin JTAG-07
+Add Pin To Net: Unknown Pin: Pin JTAG-08
+Add Pin To Net: Unknown Pin: Pin JTAG-09
+Added Pin To Net: NetName=NetB39_5 Pin=B39-5
+Added Pin To Net: NetName=NetB39_5 Pin=C44-1
+Added Pin To Net: NetName=NetB39_5 Pin=JTAG-11
+Added Net: Name=NetB39_5
+Added Member To Class: ClassName=MCU Member=Component JTAG 302-S14
+Added Room: Name=Amplify2
+Added Room: Name=Amplify3
+Added Room: Name=Amplify
+Added Room: Name=gate
+Added Room: Name=MCU
+Added Room: Name=read_out

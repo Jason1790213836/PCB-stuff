@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM27762DSSR
+D LDO Voltage Regulators Low-Noise Positive- and Negative-Output Integrated Switched Capacitor Plus LDO 12-WSON -40 to 85
+K
+F https://www.ti.com/lit/ds/symlink/lm27762.pdf
+$ENDCMP
+#
+#End Doc Library

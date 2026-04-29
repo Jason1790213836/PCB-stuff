@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD8510ARZ-REEL
+D Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Single Operational Amplifier
+K
+F https://www.analog.com/AD8510/datasheet
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADG884BRMZ'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADG884BRMZ" (!) = "", "SOP50P490X110-10N", "Small Outline Packages", "584-ADG884BRMZ", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG884BRMZ?qs=BpaRKvA4VqHGAEKiRnJ1Qg%3D%3D", "ADG884BRMZ, Analogue SPDT Switch Dual SPDT, 3, 5V, 10-Pin, MSOP", "http://www.analog.com/static/imported-files/data_sheets/ADG884.pdf", "1.1 mm"
+END_PART
+
+END.

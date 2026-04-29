@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=VD11-2
+Removed Pin From Net: NetName=GND Pin=VD11-3
+Removed Pin From Net: NetName=GND Pin=VD11-4
+Removed Pin From Net: NetName=GND Pin=VD11-5
+Removed Member From Class: ClassName=Amplify Member=VD11

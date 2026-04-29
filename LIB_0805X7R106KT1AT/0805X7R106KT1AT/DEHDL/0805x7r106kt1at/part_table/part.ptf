@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0805X7R106KT1AT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "0805X7R106KT1AT" (!) = "", "CAPC2013X113N", "Capacitor Chip Non-polarised", "581-0805X7R106KT1AT", "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/0805X7R106KT1AT?qs=XAiT9M5g4x%252Bo4s7i6ql7Og%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP-RESALE", "https://datasheets.kyocera-avx.com/Accu-P.pdf", "1.13 mm"
+END_PART
+
+END.

@@ -1,0 +1,16 @@
+.ADP7118ARDZ-5.0-R7 :1 ;ANALOG DEVICES - ADP7118ARDZ-5.0-R7 - LDO Voltage Regulator, Fixed, 2.7 V to 20 V in, 200 mV drop, 5 V/200 mA out, NSOIC-8
+SOIC127P600X175-9N
+*STM IC
+*NGS
+*PLB 1="VOUT_1" 2="VOUT_2" 3="SENSE/ADJ" 4="GND" 5="EN" 6="SS" 7="VIN_1" 8="VIN_2" 9="EP"
+*MXP 9
+*DFN ADP7118ARDZ-5.0-R7
+~!Mouser Part Number (584-ADP7118ARDZ5.0R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7118ARDZ-5.0-R7?qs=hpwIUhX6lWxkjIxJkz884Q%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADP7118ARDZ-5.0-R7)
+~!Link Datasheet (https://www.analog.com/media/en/technical-documentation/data-sheets/adp7118.pdf)
+~!Height (1.75mm)
+~!3D_Model (ADP7118ARDZ-5.0-R7)
+ADP7118ARDZ-5.0-R7
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

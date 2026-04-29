@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD8510ARZ-REEL
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=2.1
+Released=2025-05-07 15:06:23
+Downloaded=2026-01-28 15:59:30
+3D=Y

@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=ADP7118ARDZ-5.0-R7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=9
+Version=3.1
+Released=2022-03-11 06:48:36
+Downloaded=2025-11-05 20:17:36
+3D=Y

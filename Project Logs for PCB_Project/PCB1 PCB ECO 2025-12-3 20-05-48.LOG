@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TG4 Pin=*-22
+Removed Pin From Net: NetName=D4-2 Pin=*-24
+Removed Pin From Net: NetName=D5-1 Pin=*-26
+Removed Pin From Net: NetName=S5 Pin=*-28
+Removed Pin From Net: NetName=D5-2 Pin=*-30
+Added Pin To Net: NetName=D4-2 Pin=*-22
+Added Pin To Net: NetName=D5-1 Pin=*-24
+Added Pin To Net: NetName=S5 Pin=*-26
+Added Pin To Net: NetName=D5-2 Pin=*-28
+Added Pin To Net: NetName=TG4 Pin=*-30

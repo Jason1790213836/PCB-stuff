@@ -1,0 +1,178 @@
+Added Component: Designator=B21(TMUX1109PWR)
+Added Component: Designator=B22(TMUX1109PWR)
+Added Component: Designator=B31(TMUX1109PWR)
+Added Component: Designator=B32(TMUX1109PWR)
+Added Component: Designator=B33(TMUX1109PWR)
+Added Component: Designator=B34(TMUX1109PWR)
+Added Component: Designator=B35(TMUX1109PWR)
+Added Component: Designator=B36(TMUX1109PWR)
+Added Pin To Net: NetName=+5 Pin=B21-2
+Added Pin To Net: NetName=GND Pin=B21-3
+Added Pin To Net: NetName=D1-1 Pin=B21-4
+Added Pin To Net: NetName=D6-1 Pin=B21-5
+Added Pin To Net: NetName=GND Pin=B21-6
+Added Pin To Net: NetName=GND Pin=B21-7
+Added Pin To Net: NetName=NetB2_6 Pin=B21-8
+Added Pin To Net: NetName=NetB4_6 Pin=B21-9
+Added Pin To Net: NetName=GND Pin=B21-10
+Added Pin To Net: NetName=GND Pin=B21-11
+Added Pin To Net: NetName=D6-2 Pin=B21-12
+Added Pin To Net: NetName=D1-2 Pin=B21-13
+Added Pin To Net: NetName=+5 Pin=B21-14
+Added Pin To Net: NetName=GND Pin=B21-15
+Added Pin To Net: NetName=+5 Pin=B22-2
+Added Pin To Net: NetName=GND Pin=B22-3
+Added Pin To Net: NetName=S3 Pin=B22-4
+Added Pin To Net: NetName=S8 Pin=B22-5
+Added Pin To Net: NetName=GND Pin=B22-6
+Added Pin To Net: NetName=GND Pin=B22-7
+Added Pin To Net: NetName=GND Pin=B22-10
+Added Pin To Net: NetName=GND Pin=B22-11
+Added Pin To Net: NetName=S9 Pin=B22-12
+Added Pin To Net: NetName=S4 Pin=B22-13
+Added Pin To Net: NetName=+5 Pin=B22-14
+Added Pin To Net: NetName=GND Pin=B22-15
+Added Pin To Net: NetName=+5 Pin=B31-2
+Added Pin To Net: NetName=GND Pin=B31-3
+Added Pin To Net: NetName=D2-1 Pin=B31-4
+Added Pin To Net: NetName=D7-1 Pin=B31-5
+Added Pin To Net: NetName=GND Pin=B31-6
+Added Pin To Net: NetName=GND Pin=B31-7
+Added Pin To Net: NetName=NetB6_6 Pin=B31-8
+Added Pin To Net: NetName=NetB8_6 Pin=B31-9
+Added Pin To Net: NetName=GND Pin=B31-10
+Added Pin To Net: NetName=GND Pin=B31-11
+Added Pin To Net: NetName=D7-2 Pin=B31-12
+Added Pin To Net: NetName=D2-2 Pin=B31-13
+Added Pin To Net: NetName=+5 Pin=B31-14
+Added Pin To Net: NetName=GND Pin=B31-15
+Added Pin To Net: NetName=+5 Pin=B32-2
+Added Pin To Net: NetName=GND Pin=B32-3
+Added Pin To Net: NetName=S5 Pin=B32-4
+Added Pin To Net: NetName=S10 Pin=B32-5
+Added Pin To Net: NetName=S11 Pin=B32-6
+Added Pin To Net: NetName=GND Pin=B32-7
+Added Pin To Net: NetName=GND Pin=B32-9
+Added Pin To Net: NetName=GND Pin=B32-10
+Added Pin To Net: NetName=GND Pin=B32-11
+Added Pin To Net: NetName=GND Pin=B32-12
+Added Pin To Net: NetName=GND Pin=B32-13
+Added Pin To Net: NetName=+5 Pin=B32-14
+Added Pin To Net: NetName=GND Pin=B32-15
+Added Pin To Net: NetName=TCK Pin=B33-1
+Added Pin To Net: NetName=+5 Pin=B33-2
+Added Pin To Net: NetName=GND Pin=B33-3
+Added Pin To Net: NetName=D3-1 Pin=B33-4
+Added Pin To Net: NetName=D8-1 Pin=B33-5
+Added Pin To Net: NetName=GND Pin=B33-6
+Added Pin To Net: NetName=GND Pin=B33-7
+Added Pin To Net: NetName=NetB10_6 Pin=B33-8
+Added Pin To Net: NetName=NetB12_6 Pin=B33-9
+Added Pin To Net: NetName=GND Pin=B33-10
+Added Pin To Net: NetName=GND Pin=B33-11
+Added Pin To Net: NetName=D8-2 Pin=B33-12
+Added Pin To Net: NetName=D3-2 Pin=B33-13
+Added Pin To Net: NetName=+5 Pin=B33-14
+Added Pin To Net: NetName=GND Pin=B33-15
+Added Pin To Net: NetName=TMS Pin=B33-16
+Added Pin To Net: NetName=TDI Pin=B34-1
+Added Pin To Net: NetName=+5 Pin=B34-2
+Added Pin To Net: NetName=GND Pin=B34-3
+Added Pin To Net: NetName=D4-1 Pin=B34-4
+Added Pin To Net: NetName=D9-1 Pin=B34-5
+Added Pin To Net: NetName=GND Pin=B34-6
+Added Pin To Net: NetName=GND Pin=B34-7
+Added Pin To Net: NetName=NetB15_6 Pin=B34-8
+Added Pin To Net: NetName=NetB20_6 Pin=B34-9
+Added Pin To Net: NetName=GND Pin=B34-10
+Added Pin To Net: NetName=GND Pin=B34-11
+Added Pin To Net: NetName=D9-2 Pin=B34-12
+Added Pin To Net: NetName=D4-2 Pin=B34-13
+Added Pin To Net: NetName=+5 Pin=B34-14
+Added Pin To Net: NetName=GND Pin=B34-15
+Added Pin To Net: NetName=TDO Pin=B34-16
+Added Pin To Net: NetName=+5 Pin=B35-2
+Added Pin To Net: NetName=GND Pin=B35-3
+Added Pin To Net: NetName=D5-1 Pin=B35-4
+Added Pin To Net: NetName=D10-1 Pin=B35-5
+Added Pin To Net: NetName=D11-1 Pin=B35-6
+Added Pin To Net: NetName=GND Pin=B35-7
+Added Pin To Net: NetName=NetB16_6 Pin=B35-8
+Added Pin To Net: NetName=NetB19_6 Pin=B35-9
+Added Pin To Net: NetName=GND Pin=B35-10
+Added Pin To Net: NetName=D11-2 Pin=B35-11
+Added Pin To Net: NetName=D10-2 Pin=B35-12
+Added Pin To Net: NetName=D5-2 Pin=B35-13
+Added Pin To Net: NetName=+5 Pin=B35-14
+Added Pin To Net: NetName=GND Pin=B35-15
+Added Pin To Net: NetName=+5 Pin=B36-2
+Added Pin To Net: NetName=GND Pin=B36-3
+Added Pin To Net: NetName=S1 Pin=B36-4
+Added Pin To Net: NetName=S6 Pin=B36-5
+Added Pin To Net: NetName=GND Pin=B36-6
+Added Pin To Net: NetName=GND Pin=B36-7
+Added Pin To Net: NetName=GND Pin=B36-10
+Added Pin To Net: NetName=GND Pin=B36-11
+Added Pin To Net: NetName=S7 Pin=B36-12
+Added Pin To Net: NetName=S2 Pin=B36-13
+Added Pin To Net: NetName=+5 Pin=B36-14
+Added Pin To Net: NetName=GND Pin=B36-15
+Added Pin To Net: NetName=NetB21_1 Pin=B21-1
+Added Pin To Net: NetName=NetB21_1 Pin=B39-3
+Added Net: Name=NetB21_1
+Added Pin To Net: NetName=NetB21_16 Pin=B21-16
+Added Pin To Net: NetName=NetB21_16 Pin=B39-2
+Added Net: Name=NetB21_16
+Added Pin To Net: NetName=NetB22_1 Pin=B22-1
+Added Pin To Net: NetName=NetB22_1 Pin=B39-11
+Added Net: Name=NetB22_1
+Added Pin To Net: NetName=NetB22_8 Pin=B22-8
+Added Pin To Net: NetName=NetB22_8 Pin=S_IN3-1
+Added Net: Name=NetB22_8
+Added Pin To Net: NetName=NetB22_9 Pin=B22-9
+Added Pin To Net: NetName=NetB22_9 Pin=S_IN4-1
+Added Net: Name=NetB22_9
+Added Pin To Net: NetName=NetB22_16 Pin=B22-16
+Added Pin To Net: NetName=NetB22_16 Pin=B39-10
+Added Net: Name=NetB22_16
+Added Pin To Net: NetName=NetB31_1 Pin=B31-1
+Added Pin To Net: NetName=NetB31_1 Pin=B39-1
+Added Net: Name=NetB31_1
+Added Pin To Net: NetName=NetB31_16 Pin=B31-16
+Added Pin To Net: NetName=NetB31_16 Pin=B39-48
+Added Net: Name=NetB31_16
+Added Pin To Net: NetName=NetB32_1 Pin=B32-1
+Added Pin To Net: NetName=NetB32_1 Pin=B39-9
+Added Net: Name=NetB32_1
+Added Pin To Net: NetName=NetB32_8 Pin=B32-8
+Added Pin To Net: NetName=NetB32_8 Pin=S_IN5-1
+Added Net: Name=NetB32_8
+Added Pin To Net: NetName=NetB32_16 Pin=B32-16
+Added Pin To Net: NetName=NetB32_16 Pin=B39-8
+Added Net: Name=NetB32_16
+Added Pin To Net: NetName=NetB35_1 Pin=B35-1
+Added Pin To Net: NetName=NetB35_1 Pin=B39-30
+Added Net: Name=NetB35_1
+Added Pin To Net: NetName=NetB35_16 Pin=B35-16
+Added Pin To Net: NetName=NetB35_16 Pin=B39-29
+Added Net: Name=NetB35_16
+Added Pin To Net: NetName=NetB36_1 Pin=B36-1
+Added Pin To Net: NetName=NetB36_1 Pin=B39-28
+Added Net: Name=NetB36_1
+Added Pin To Net: NetName=NetB36_8 Pin=B36-8
+Added Pin To Net: NetName=NetB36_8 Pin=S_IN1-1
+Added Net: Name=NetB36_8
+Added Pin To Net: NetName=NetB36_9 Pin=B36-9
+Added Pin To Net: NetName=NetB36_9 Pin=S_IN2-1
+Added Net: Name=NetB36_9
+Added Pin To Net: NetName=NetB36_16 Pin=B36-16
+Added Pin To Net: NetName=NetB36_16 Pin=B39-27
+Added Net: Name=NetB36_16
+Added Member To Class: ClassName=read_out Member=Component B21 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B22 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B31 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B32 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B33 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B34 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B35 TMUX1109PWR
+Added Member To Class: ClassName=read_out Member=Component B36 TMUX1109PWR

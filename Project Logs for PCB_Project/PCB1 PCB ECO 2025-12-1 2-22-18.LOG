@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=Cvin1 Old DesignItemId=capacitor New DesignItemId=0805X7R106KT1AT
+Change Component Footprint: Designator=R1 Old Footprint=resistor New Footprint=CR0805-FX-1543ELF
+Change Component Footprint: Designator=Rpu1 Old Footprint=resistor New Footprint=CR0805-FX-1543ELF
+Change Component Comment : Designator=Cvin1 Old Comment=4.7u New Comment=0805X7R106KT1AT

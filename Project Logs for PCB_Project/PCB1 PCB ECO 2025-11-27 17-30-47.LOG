@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=2VDX11-2
+Removed Pin From Net: NetName=GND Pin=2VDX11-3
+Removed Pin From Net: NetName=GND Pin=2VDX11-4
+Removed Pin From Net: NetName=GND Pin=2VDX11-5
+Removed Pin From Net: NetName=-5 Pin=B21-4
+Removed Pin From Net: NetName=+5 Pin=B21-7
+Removed Pin From Net: NetName=-5 Pin=B22-4
+Removed Pin From Net: NetName=+5 Pin=B22-8
+Removed Pin From Net: NetName=GND Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=R93-1
+Removed Member From Class: ClassName=Amplify2 Member=2VDX11
+Removed Member From Class: ClassName=Amplify2 Member=B21
+Removed Member From Class: ClassName=Amplify2 Member=B22
+Removed Member From Class: ClassName=Amplify2 Member=C28
+Removed Member From Class: ClassName=Amplify2 Member=C29
+Removed Member From Class: ClassName=Amplify2 Member=R89
+Removed Member From Class: ClassName=Amplify2 Member=R90
+Removed Member From Class: ClassName=Amplify2 Member=R91
+Removed Member From Class: ClassName=Amplify2 Member=R92
+Removed Member From Class: ClassName=Amplify2 Member=R93
+Removed Member From Class: ClassName=Amplify2 Member=X11
+Added Pin To Net: NetName=NetVD11_1 Pin=VD11-1
+Added Net: Name=NetVD11_1

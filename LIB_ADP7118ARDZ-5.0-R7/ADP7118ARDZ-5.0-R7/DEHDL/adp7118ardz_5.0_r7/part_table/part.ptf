@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADP7118ARDZ_5.0_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADP7118ARDZ-5.0-R7" (!) = "", "SOIC127P600X175-9N", "Small Outline Packages", "584-ADP7118ARDZ5.0R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP7118ARDZ-5.0-R7?qs=hpwIUhX6lWxkjIxJkz884Q%3D%3D", "ANALOG DEVICES - ADP7118ARDZ-5.0-R7 - LDO Voltage Regulator, Fixed, 2.7 V to 20 V in, 200 mV drop, 5 V/200 mA out, NSOIC-8", "https://www.analog.com/media/en/technical-documentation/data-sheets/adp7118.pdf", "1.75 mm"
+END_PART
+
+END.

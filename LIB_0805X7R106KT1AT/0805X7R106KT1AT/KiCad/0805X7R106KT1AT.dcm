@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0805X7R106KT1AT
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP-RESALE
+K
+F https://datasheets.kyocera-avx.com/Accu-P.pdf
+$ENDCMP
+#
+#End Doc Library

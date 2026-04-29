@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetB31_2 Pin=CH12_OUT-1
+Removed Pin From Net: NetName=NetB33_2 Pin=CH13_OUT-1
+Removed Pin From Net: NetName=NetB35_2 Pin=CH14_OUT-1
+Removed Pin From Net: NetName=NetB37_2 Pin=CH15_OUT-1
+Change Component Designator: OldDesignator=CH11_OUT NewDesignator=S_IN1
+Change Component Designator: OldDesignator=CH12_OUT NewDesignator=S_IN2
+Change Component Designator: OldDesignator=CH13_OUT NewDesignator=S_IN3
+Change Component Designator: OldDesignator=CH14_OUT NewDesignator=S_IN4
+Change Component Designator: OldDesignator=CH15_OUT NewDesignator=S_IN5
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=-5V_REG-6
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-1
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-2
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-3
+Added Pin To Net: NetName=Net5V_REG_1 Pin=c3-2
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=C25-1
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=R5-2
+Added Pin To Net: NetName=NetS_IN2_1 Pin=S_IN2-1
+Added Net: Name=NetS_IN2_1
+Added Pin To Net: NetName=NetS_IN3_1 Pin=S_IN3-1
+Added Net: Name=NetS_IN3_1
+Added Pin To Net: NetName=NetS_IN4_1 Pin=S_IN4-1
+Added Net: Name=NetS_IN4_1
+Added Pin To Net: NetName=NetS_IN5_1 Pin=S_IN5-1
+Added Net: Name=NetS_IN5_1

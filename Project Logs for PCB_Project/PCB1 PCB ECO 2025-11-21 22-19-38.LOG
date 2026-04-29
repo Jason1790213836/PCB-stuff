@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=CH1-2
+Removed Pin From Net: NetName=GND Pin=CH1-3
+Removed Pin From Net: NetName=GND Pin=CH1-4
+Removed Pin From Net: NetName=GND Pin=CH1-5
+Removed Member From Class: ClassName=read_out Member=CH1
+Added Room: Name=MCU
+Added Room: Name=read_out

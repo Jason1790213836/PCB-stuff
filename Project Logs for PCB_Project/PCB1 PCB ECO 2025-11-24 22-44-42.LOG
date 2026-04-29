@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=-5 Pin=-5V_REG-6
+Removed Pin From Net: NetName=GND Pin=-5V_REG-8
+Removed Pin From Net: NetName=Net3.3V_REG_5 Pin=-5V_REG-12
+Removed Pin From Net: NetName=+5 Pin=5V_REG-1
+Removed Pin From Net: NetName=+5 Pin=5V_REG-2
+Removed Pin From Net: NetName=+5 Pin=5V_REG-3
+Removed Pin From Net: NetName=+5 Pin=c3-2
+Removed Pin From Net: NetName=-5 Pin=R5-2
+Change Component Comment : Designator=C1 Old Comment=1uf New Comment=1u
+Change Component Comment : Designator=Cvin1 Old Comment=10uf New Comment=4.7u
+Change Component Comment : Designator=R4 Old Comment=50k New Comment=100k
+Change Component Comment : Designator=R5 Old Comment=155k New Comment=309k
+Added Component: Designator=C25(capacitor)
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=-5V_REG-3
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=-5V_REG-6
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=-5V_REG-8
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-1
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-2
+Added Pin To Net: NetName=Net5V_REG_1 Pin=5V_REG-3
+Added Pin To Net: NetName=Net5V_REG_1 Pin=c3-2
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=Cvin1-2
+Added Pin To Net: NetName=Net-5V_REG_6 Pin=R5-2
+Added Pin To Net: NetName=Net3.3V_REG_5 Pin=Rpu1-1
+Added Member To Class: ClassName=read_out Member=Component C25 2.2u
+Added Member To Class: ClassName=read_out Member=Component J1 PJ-002AH-SMT-TR
+Added Room: Name=read_out

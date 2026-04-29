@@ -1,0 +1,16 @@
+.ADG884BRMZ :1 ;ADG884BRMZ, Analogue SPDT Switch Dual SPDT, 3, 5V, 10-Pin, MSOP
+SOP50P490X110-10N
+*STM IC
+*NGS
+*PLB 1="VDD" 2="S1A" 3="D1" 4="IN1" 5="S1B" 6="GND" 7="S2B" 8="IN2" 9="D2" 10="S2A"
+*MXP 10
+*DFN ADG884BRMZ
+~!Mouser Part Number (584-ADG884BRMZ)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG884BRMZ?qs=BpaRKvA4VqHGAEKiRnJ1Qg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADG884BRMZ)
+~!Link Datasheet (http://www.analog.com/static/imported-files/data_sheets/ADG884.pdf)
+~!Height (1.1mm)
+~!3D_Model (ADG884BRMZ)
+ADG884BRMZ
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

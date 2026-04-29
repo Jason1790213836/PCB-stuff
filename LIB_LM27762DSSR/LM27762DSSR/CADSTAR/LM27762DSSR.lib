@@ -1,0 +1,16 @@
+.LM27762DSSR :1 ;LDO Voltage Regulators Low-Noise Positive- and Negative-Output Integrated Switched Capacitor Plus LDO 12-WSON -40 to 85
+SON50P200X300X80-13N-D
+*STM PS
+*NGS
+*PLB 1="PGOOD" 2="FB+" 3="VIN" 4="GND" 5="CP" 6="OUT-" 7="FB-" 8="EN-" 9="C1-" 10="C1+" 11="OUT+" 12="EN+" 13="PAD"
+*MXP 13
+*DFN LM27762DSSR
+~!Mouser Part Number (595-LM27762DSSR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM27762DSSR?qs=vcbl%252BK4rRlfEJcC9xQ80sA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM27762DSSR)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/lm27762.pdf)
+~!Height (0.8mm)
+~!3D_Model (LM27762DSSR)
+LM27762DSSR
+1.1!Y 2.1!P 3.1!P 4.1!G 5.1!P 6.1!P 13.1!G 12.1!I 11.1!P 10.1!P 9.1!P 8.1!I 7.1!P 

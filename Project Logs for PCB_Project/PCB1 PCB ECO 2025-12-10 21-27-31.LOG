@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=S2 Pin=MUXS2-S7-1
+Removed Pin From Net: NetName=S7 Pin=MUXS2-S7-2
+Removed Pin From Net: NetName=GND Pin=MUXS2-S7-3
+Removed Pin From Net: NetName=GND Pin=MUXS2-S7-4
+Removed Pin From Net: NetName=NetB39_35 Pin=MUXS2-S7-5
+Removed Pin From Net: NetName=NetB39_36 Pin=MUXS2-S7-6
+Removed Pin From Net: NetName=+5 Pin=MUXS2-S7-8
+Removed Pin From Net: NetName=S3 Pin=MUXS3-S8-1
+Removed Pin From Net: NetName=S8 Pin=MUXS3-S8-2
+Removed Pin From Net: NetName=GND Pin=MUXS3-S8-3
+Removed Pin From Net: NetName=GND Pin=MUXS3-S8-4
+Removed Pin From Net: NetName=NetB39_25 Pin=MUXS3-S8-5
+Removed Pin From Net: NetName=NetB39_26 Pin=MUXS3-S8-6
+Removed Pin From Net: NetName=+5 Pin=MUXS3-S8-8
+Removed Pin From Net: NetName=S9 Pin=MUXS4-S9-1
+Removed Pin From Net: NetName=S4 Pin=MUXS4-S9-2
+Removed Pin From Net: NetName=GND Pin=MUXS4-S9-3
+Removed Pin From Net: NetName=GND Pin=MUXS4-S9-4
+Removed Pin From Net: NetName=NetB39_23 Pin=MUXS4-S9-5
+Removed Pin From Net: NetName=NetB39_24 Pin=MUXS4-S9-6
+Removed Pin From Net: NetName=+5 Pin=MUXS4-S9-8
+Removed Pin From Net: NetName=S10 Pin=MUXS10-11-5-1
+Removed Pin From Net: NetName=S11 Pin=MUXS10-11-5-2
+Removed Pin From Net: NetName=S5 Pin=MUXS10-11-5-3
+Removed Pin From Net: NetName=GND Pin=MUXS10-11-5-4
+Removed Pin From Net: NetName=NetB39_14 Pin=MUXS10-11-5-5
+Removed Pin From Net: NetName=NetB39_15 Pin=MUXS10-11-5-6
+Removed Pin From Net: NetName=+5 Pin=MUXS10-11-5-8
+Removed Member From Class: ClassName=read_out Member=MUXS2-S7
+Removed Member From Class: ClassName=read_out Member=MUXS3-S8
+Removed Member From Class: ClassName=read_out Member=MUXS4-S9
+Removed Member From Class: ClassName=read_out Member=MUXS10-11-5
+Added Pin To Net: NetName=NetS_IN2_1 Pin=S_IN2-1
+Added Net: Name=NetS_IN2_1
+Added Pin To Net: NetName=NetS_IN3_1 Pin=S_IN3-1
+Added Net: Name=NetS_IN3_1
+Added Pin To Net: NetName=NetS_IN4_1 Pin=S_IN4-1
+Added Net: Name=NetS_IN4_1
+Added Pin To Net: NetName=NetS_IN5_1 Pin=S_IN5-1
+Added Net: Name=NetS_IN5_1

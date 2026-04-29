@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADG884BRMZ
+D ADG884BRMZ, Analogue SPDT Switch Dual SPDT, 3, 5V, 10-Pin, MSOP
+K
+F http://www.analog.com/static/imported-files/data_sheets/ADG884.pdf
+$ENDCMP
+#
+#End Doc Library

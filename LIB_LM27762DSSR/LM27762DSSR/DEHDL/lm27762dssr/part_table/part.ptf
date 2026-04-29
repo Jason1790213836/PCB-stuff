@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM27762DSSR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM27762DSSR" (!) = "", "SON50P200X300X80-13N-D", "Small Outline No-lead", "595-LM27762DSSR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM27762DSSR?qs=vcbl%252BK4rRlfEJcC9xQ80sA%3D%3D", "LDO Voltage Regulators Low-Noise Positive- and Negative-Output Integrated Switched Capacitor Plus LDO 12-WSON -40 to 85", "https://www.ti.com/lit/ds/symlink/lm27762.pdf", "0.8 mm"
+END_PART
+
+END.

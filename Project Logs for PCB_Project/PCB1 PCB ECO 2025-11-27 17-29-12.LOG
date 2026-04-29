@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=GND Pin=2VDX12-2
+Removed Pin From Net: NetName=GND Pin=2VDX12-3
+Removed Pin From Net: NetName=GND Pin=2VDX12-4
+Removed Pin From Net: NetName=GND Pin=2VDX12-5
+Removed Pin From Net: NetName=GND Pin=2VDX13-2
+Removed Pin From Net: NetName=GND Pin=2VDX13-3
+Removed Pin From Net: NetName=GND Pin=2VDX13-4
+Removed Pin From Net: NetName=GND Pin=2VDX13-5
+Removed Pin From Net: NetName=GND Pin=2VDX14-2
+Removed Pin From Net: NetName=GND Pin=2VDX14-3
+Removed Pin From Net: NetName=GND Pin=2VDX14-4
+Removed Pin From Net: NetName=GND Pin=2VDX14-5
+Removed Pin From Net: NetName=GND Pin=2VDX15-2
+Removed Pin From Net: NetName=GND Pin=2VDX15-3
+Removed Pin From Net: NetName=GND Pin=2VDX15-4
+Removed Pin From Net: NetName=GND Pin=2VDX15-5
+Removed Pin From Net: NetName=-5 Pin=B31-4
+Removed Pin From Net: NetName=+5 Pin=B31-7
+Removed Pin From Net: NetName=-5 Pin=B32-4
+Removed Pin From Net: NetName=NetB4_3 Pin=B32-5
+Removed Pin From Net: NetName=+5 Pin=B32-8
+Removed Pin From Net: NetName=-5 Pin=B33-4
+Removed Pin From Net: NetName=+5 Pin=B33-7
+Removed Pin From Net: NetName=-5 Pin=B34-4
+Removed Pin From Net: NetName=+5 Pin=B34-8
+Removed Pin From Net: NetName=-5 Pin=B35-4
+Removed Pin From Net: NetName=+5 Pin=B35-7
+Removed Pin From Net: NetName=-5 Pin=B36-4
+Removed Pin From Net: NetName=+5 Pin=B36-8
+Removed Pin From Net: NetName=-5 Pin=B37-4
+Removed Pin From Net: NetName=+5 Pin=B37-7
+Removed Pin From Net: NetName=-5 Pin=B38-4
+Removed Pin From Net: NetName=+5 Pin=B38-8
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=GND Pin=C39-2
+Removed Pin From Net: NetName=GND Pin=C41-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=GND Pin=R31-1
+Removed Pin From Net: NetName=GND Pin=R36-1
+Removed Pin From Net: NetName=GND Pin=VD12-2
+Removed Pin From Net: NetName=GND Pin=VD12-3
+Removed Pin From Net: NetName=GND Pin=VD12-4
+Removed Pin From Net: NetName=GND Pin=VD12-5
+Removed Pin From Net: NetName=GND Pin=VD13-2
+Removed Pin From Net: NetName=GND Pin=VD13-3
+Removed Pin From Net: NetName=GND Pin=VD13-4
+Removed Pin From Net: NetName=GND Pin=VD13-5
+Removed Pin From Net: NetName=GND Pin=VD14-2
+Removed Pin From Net: NetName=GND Pin=VD14-3
+Removed Pin From Net: NetName=GND Pin=VD14-4
+Removed Pin From Net: NetName=GND Pin=VD14-5
+Removed Pin From Net: NetName=GND Pin=VD15-2
+Removed Pin From Net: NetName=GND Pin=VD15-3
+Removed Pin From Net: NetName=GND Pin=VD15-4
+Removed Pin From Net: NetName=GND Pin=VD15-5
+Change Net Name : Old Net Name=NetCH11_OUT_1 New Net Name=NetMUXS1-S6_7
+Added Pin To Net: NetName=NetMUXS2-S7_7 Pin=MUXS2-S7-7
+Added Net: Name=NetMUXS2-S7_7
+Added Pin To Net: NetName=NetMUXS3-S8_7 Pin=MUXS3-S8-7
+Added Net: Name=NetMUXS3-S8_7
+Added Pin To Net: NetName=NetMUXS4-S9_7 Pin=MUXS4-S9-7
+Added Net: Name=NetMUXS4-S9_7
+Added Pin To Net: NetName=NetMUXS10-11-5_7 Pin=MUXS10-11-5-7
+Added Net: Name=NetMUXS10-11-5_7

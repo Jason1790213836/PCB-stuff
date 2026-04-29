@@ -1,0 +1,16 @@
+.TMUX1109PWR :1 ;5 V, +/-2.5 V, low-leakage-current, 4:1, 2-channel precision multiplexer
+SOP65P640X120-16N
+*STM IC
+*NGS
+*PLB 1="A0" 2="EN" 3="VSS" 4="S1A" 5="S2A" 6="S3A" 7="S4A" 8="DA" 9="DB" 10="S4B" 11="S3B" 12="S2B" 13="S1B" 14="VDD" 15="GND" 16="A1"
+*MXP 16
+*DFN TMUX1109PWR
+~!Mouser Part Number (595-TMUX1109PWR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMUX1109PWR?qs=l7cgNqFNU1i6NxWAXLnZXQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TMUX1109PWR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/TMUX1109)
+~!Height (1.2mm)
+~!3D_Model (TMUX1109PWR)
+TMUX1109PWR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

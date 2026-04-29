@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=TCK Pin=B33-1
+Removed Pin From Net: NetName=TMS Pin=B33-16
+Removed Pin From Net: NetName=TDI Pin=B34-1
+Removed Pin From Net: NetName=TDO Pin=B34-16
+Added Pin To Net: NetName=NetB33_1 Pin=B33-1
+Added Pin To Net: NetName=NetB33_1 Pin=B39-44
+Added Net: Name=NetB33_1
+Added Pin To Net: NetName=NetB33_16 Pin=B33-16
+Added Pin To Net: NetName=NetB33_16 Pin=B39-45
+Added Net: Name=NetB33_16
+Added Pin To Net: NetName=NetB34_1 Pin=B34-1
+Added Pin To Net: NetName=NetB34_1 Pin=B39-46
+Added Net: Name=NetB34_1
+Added Pin To Net: NetName=NetB34_16 Pin=B34-16
+Added Pin To Net: NetName=NetB34_16 Pin=B39-47
+Added Net: Name=NetB34_16

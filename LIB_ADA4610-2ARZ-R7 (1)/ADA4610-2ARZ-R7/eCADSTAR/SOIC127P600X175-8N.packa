@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADA4610-2ARZ-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2025-05-08-04:49:17)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

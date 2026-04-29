@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TS5A3359DCUT
+PartCategory=Switch
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2017-10-17 11:29:26
+Downloaded=2025-11-05 22:03:52
+3D=Y

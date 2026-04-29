@@ -1,0 +1,16 @@
+.TS5A3359DCUT :1 ;Texas Instruments TS5A3359DCUT, Analogue Switch Single SP3T, 3.3 V, 5 V, 8-Pin VSSOP
+SOP50P310X90-8N
+*STM S
+*NGS
+*PLB 1="NO0" 2="NO1" 3="NO2" 4="GND" 5="IN2" 6="IN1" 7="COM" 8="VCC"
+*MXP 8
+*DFN TS5A3359DCUT
+~!Mouser Part Number (595-TS5A3359DCUT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TS5A3359DCUT?qs=0O%2FZFlpUpJWZahDSKJBJfQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TS5A3359DCUT)
+~!Link Datasheet (http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TS5A3359&&fileType=pdf)
+~!Height (0.9mm)
+~!3D_Model (TS5A3359DCUT)
+TS5A3359DCUT
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

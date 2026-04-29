@@ -1,0 +1,140 @@
+Removed Pin From Net: NetName=-5 Pin=B1-4
+Removed Pin From Net: NetName=+5 Pin=B1-7
+Removed Pin From Net: NetName=-5 Pin=B3-4
+Removed Pin From Net: NetName=+5 Pin=B3-7
+Removed Pin From Net: NetName=-5 Pin=B5-4
+Removed Pin From Net: NetName=+5 Pin=B5-7
+Removed Pin From Net: NetName=-5 Pin=B7-4
+Removed Pin From Net: NetName=+5 Pin=B7-7
+Removed Pin From Net: NetName=-5 Pin=B9-4
+Removed Pin From Net: NetName=+5 Pin=B9-7
+Removed Pin From Net: NetName=-5 Pin=B11-4
+Removed Pin From Net: NetName=+5 Pin=B11-7
+Removed Pin From Net: NetName=-5 Pin=B13-4
+Removed Pin From Net: NetName=+5 Pin=B13-7
+Removed Pin From Net: NetName=-5 Pin=B14-4
+Removed Pin From Net: NetName=+5 Pin=B14-7
+Removed Pin From Net: NetName=-5 Pin=B17-4
+Removed Pin From Net: NetName=+5 Pin=B17-7
+Removed Pin From Net: NetName=-5 Pin=B18-4
+Removed Pin From Net: NetName=+5 Pin=B18-7
+Removed Member From Class: ClassName=Amplify Member=B1
+Removed Member From Class: ClassName=Amplify Member=B3
+Removed Member From Class: ClassName=Amplify Member=B5
+Removed Member From Class: ClassName=Amplify Member=B7
+Removed Member From Class: ClassName=Amplify Member=B9
+Removed Member From Class: ClassName=Amplify Member=B11
+Removed Member From Class: ClassName=Amplify2 Member=B13
+Removed Member From Class: ClassName=Amplify2 Member=B14
+Removed Member From Class: ClassName=Amplify2 Member=B17
+Removed Member From Class: ClassName=Amplify2 Member=B18
+Added Component: Designator=Q1(AD8510ARZ)
+Added Component: Designator=Q2(AD8510ARZ)
+Added Component: Designator=Q3(AD8510ARZ)
+Added Component: Designator=Q4(AD8510ARZ)
+Added Component: Designator=Q5(AD8510ARZ)
+Added Component: Designator=Q6(AD8510ARZ)
+Added Component: Designator=Q7(AD8510ARZ)
+Added Component: Designator=Q8(AD8510ARZ)
+Added Component: Designator=Q9(AD8510ARZ)
+Added Component: Designator=Q10(AD8510ARZ)
+Added Pin To Net: NetName=-5 Pin=Q1-4
+Added Pin To Net: NetName=+5 Pin=Q1-7
+Added Pin To Net: NetName=-5 Pin=Q2-4
+Added Pin To Net: NetName=+5 Pin=Q2-7
+Added Pin To Net: NetName=-5 Pin=Q3-4
+Added Pin To Net: NetName=+5 Pin=Q3-7
+Added Pin To Net: NetName=-5 Pin=Q4-4
+Added Pin To Net: NetName=+5 Pin=Q4-7
+Added Pin To Net: NetName=-5 Pin=Q5-4
+Added Pin To Net: NetName=+5 Pin=Q5-7
+Added Pin To Net: NetName=-5 Pin=Q6-4
+Added Pin To Net: NetName=+5 Pin=Q6-7
+Added Pin To Net: NetName=-5 Pin=Q7-4
+Added Pin To Net: NetName=+5 Pin=Q7-7
+Added Pin To Net: NetName=-5 Pin=Q8-4
+Added Pin To Net: NetName=+5 Pin=Q8-7
+Added Pin To Net: NetName=-5 Pin=Q9-4
+Added Pin To Net: NetName=+5 Pin=Q9-7
+Added Pin To Net: NetName=-5 Pin=Q10-4
+Added Pin To Net: NetName=+5 Pin=Q10-7
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=Q1-3
+Added Pin To Net: NetName=NetC8_1 Pin=R42-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=Q3-3
+Added Pin To Net: NetName=NetC10_1 Pin=R47-2
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=Q5-3
+Added Pin To Net: NetName=NetC12_1 Pin=R52-2
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=Q6-3
+Added Pin To Net: NetName=NetC14_1 Pin=R57-2
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC16_1 Pin=C16-1
+Added Pin To Net: NetName=NetC16_1 Pin=Q2-3
+Added Pin To Net: NetName=NetC16_1 Pin=R62-2
+Added Net: Name=NetC16_1
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=Q4-3
+Added Pin To Net: NetName=NetC18_1 Pin=R67-2
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_1 Pin=Q7-3
+Added Pin To Net: NetName=NetC21_1 Pin=R75-2
+Added Net: Name=NetC21_1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=NetC22_1 Pin=Q8-3
+Added Pin To Net: NetName=NetC22_1 Pin=R77-2
+Added Net: Name=NetC22_1
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=Q9-3
+Added Pin To Net: NetName=NetC26_1 Pin=R85-2
+Added Net: Name=NetC26_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=Q10-3
+Added Pin To Net: NetName=NetC27_1 Pin=R87-2
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetCH1_OUT_1 Pin=CH1_OUT-1
+Added Pin To Net: NetName=NetCH1_OUT_1 Pin=Q1-2
+Added Pin To Net: NetName=NetCH1_OUT_1 Pin=Q1-6
+Added Net: Name=NetCH1_OUT_1
+Added Pin To Net: NetName=NetCH2_OUT_1 Pin=CH2_OUT-1
+Added Pin To Net: NetName=NetCH2_OUT_1 Pin=Q3-2
+Added Pin To Net: NetName=NetCH2_OUT_1 Pin=Q3-6
+Added Net: Name=NetCH2_OUT_1
+Added Pin To Net: NetName=NetCH3_OUT_1 Pin=CH3_OUT-1
+Added Pin To Net: NetName=NetCH3_OUT_1 Pin=Q5-2
+Added Pin To Net: NetName=NetCH3_OUT_1 Pin=Q5-6
+Added Net: Name=NetCH3_OUT_1
+Added Pin To Net: NetName=NetCH4_OUT_1 Pin=CH4_OUT-1
+Added Pin To Net: NetName=NetCH4_OUT_1 Pin=Q6-2
+Added Pin To Net: NetName=NetCH4_OUT_1 Pin=Q6-6
+Added Net: Name=NetCH4_OUT_1
+Added Pin To Net: NetName=NetCH5_OUT_1 Pin=CH5_OUT-1
+Added Pin To Net: NetName=NetCH5_OUT_1 Pin=Q2-2
+Added Pin To Net: NetName=NetCH5_OUT_1 Pin=Q2-6
+Added Net: Name=NetCH5_OUT_1
+Added Pin To Net: NetName=NetCH6_OUT_1 Pin=CH6_OUT-1
+Added Pin To Net: NetName=NetCH6_OUT_1 Pin=Q4-2
+Added Pin To Net: NetName=NetCH6_OUT_1 Pin=Q4-6
+Added Net: Name=NetCH6_OUT_1
+Added Pin To Net: NetName=NetCH7_OUT_1 Pin=CH7_OUT-1
+Added Pin To Net: NetName=NetCH7_OUT_1 Pin=Q7-2
+Added Pin To Net: NetName=NetCH7_OUT_1 Pin=Q7-6
+Added Net: Name=NetCH7_OUT_1
+Added Pin To Net: NetName=NetCH8_OUT_1 Pin=CH8_OUT-1
+Added Pin To Net: NetName=NetCH8_OUT_1 Pin=Q10-2
+Added Pin To Net: NetName=NetCH8_OUT_1 Pin=Q10-6
+Added Net: Name=NetCH8_OUT_1
+Added Pin To Net: NetName=NetCH9_OUT_1 Pin=CH9_OUT-1
+Added Pin To Net: NetName=NetCH9_OUT_1 Pin=Q8-2
+Added Pin To Net: NetName=NetCH9_OUT_1 Pin=Q8-6
+Added Net: Name=NetCH9_OUT_1
+Added Pin To Net: NetName=NetCH10_OUT_1 Pin=CH10_OUT-1
+Added Pin To Net: NetName=NetCH10_OUT_1 Pin=Q9-2
+Added Pin To Net: NetName=NetCH10_OUT_1 Pin=Q9-6
+Added Net: Name=NetCH10_OUT_1

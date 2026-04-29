@@ -1,0 +1,16 @@
+.AD8510ARZ-REEL :1 ;Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Single Operational Amplifier
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="NULL_1" 2="-IN" 3="+IN" 4="V-" 5="NULL_2" 6="OUT" 7="V+" 8="NC"
+*MXP 8
+*DFN AD8510ARZ-REEL
+~!Mouser Part Number (584-AD8510ARZ-R)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/AD8510ARZ-REEL?qs=%2FtpEQrCGXCwXL7drMaFeVQ%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (AD8510ARZ-REEL)
+~!Link Datasheet (https://www.analog.com/AD8510/datasheet)
+~!Height (1.75mm)
+~!3D_Model (AD8510ARZ-REEL)
+AD8510ARZ-REEL
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

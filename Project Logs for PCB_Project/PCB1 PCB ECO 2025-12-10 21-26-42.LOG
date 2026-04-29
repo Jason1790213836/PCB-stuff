@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=S1 Pin=MUXS1-S6-1
+Removed Pin From Net: NetName=S6 Pin=MUXS1-S6-2
+Removed Pin From Net: NetName=GND Pin=MUXS1-S6-3
+Removed Pin From Net: NetName=GND Pin=MUXS1-S6-4
+Removed Pin From Net: NetName=NetB39_37 Pin=MUXS1-S6-5
+Removed Pin From Net: NetName=NetB39_38 Pin=MUXS1-S6-6
+Removed Pin From Net: NetName=+5 Pin=MUXS1-S6-8
+Removed Member From Class: ClassName=read_out Member=MUXS1-S6
+Added Pin To Net: NetName=NetS_IN1_1 Pin=S_IN1-1
+Added Net: Name=NetS_IN1_1

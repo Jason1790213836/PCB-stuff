@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=SOL_G Pin=B23-3
+Removed Pin From Net: NetName=-5 Pin=B23-4
+Removed Pin From Net: NetName=+5 Pin=B23-7
+Removed Pin From Net: NetName=BG Pin=B24-3
+Removed Pin From Net: NetName=-5 Pin=B24-4
+Removed Pin From Net: NetName=+5 Pin=B24-7
+Removed Pin From Net: NetName=TG4 Pin=B25-3
+Removed Pin From Net: NetName=-5 Pin=B25-4
+Removed Pin From Net: NetName=+5 Pin=B25-7
+Removed Pin From Net: NetName=TG6 Pin=B26-3
+Removed Pin From Net: NetName=-5 Pin=B26-4
+Removed Pin From Net: NetName=+5 Pin=B26-7
+Removed Member From Class: ClassName=gate Member=B23
+Removed Member From Class: ClassName=gate Member=B24
+Removed Member From Class: ClassName=gate Member=B25
+Removed Member From Class: ClassName=gate Member=B26
+Added Component: Designator=Q11(AD8510ARZ)
+Added Component: Designator=Q12(AD8510ARZ)
+Added Component: Designator=Q13(AD8510ARZ)
+Added Component: Designator=Q14(AD8510ARZ)
+Added Pin To Net: NetName=SOL_G Pin=Q11-3
+Added Pin To Net: NetName=-5 Pin=Q11-4
+Added Pin To Net: NetName=+5 Pin=Q11-7
+Added Pin To Net: NetName=BG Pin=Q12-3
+Added Pin To Net: NetName=-5 Pin=Q12-4
+Added Pin To Net: NetName=+5 Pin=Q12-7
+Added Pin To Net: NetName=TG4 Pin=Q13-3
+Added Pin To Net: NetName=-5 Pin=Q13-4
+Added Pin To Net: NetName=+5 Pin=Q13-7
+Added Pin To Net: NetName=TG6 Pin=Q14-3
+Added Pin To Net: NetName=-5 Pin=Q14-4
+Added Pin To Net: NetName=+5 Pin=Q14-7
+Added Pin To Net: NetName=NetI_BG_1 Pin=I_BG-1
+Added Pin To Net: NetName=NetI_BG_1 Pin=Q12-2
+Added Pin To Net: NetName=NetI_BG_1 Pin=Q12-6
+Added Net: Name=NetI_BG_1
+Added Pin To Net: NetName=NetI_SOL_G_1 Pin=I_SOL_G-1
+Added Pin To Net: NetName=NetI_SOL_G_1 Pin=Q11-2
+Added Pin To Net: NetName=NetI_SOL_G_1 Pin=Q11-6
+Added Net: Name=NetI_SOL_G_1
+Added Pin To Net: NetName=NetI_TG4_1 Pin=I_TG4-1
+Added Pin To Net: NetName=NetI_TG4_1 Pin=Q13-2
+Added Pin To Net: NetName=NetI_TG4_1 Pin=Q13-6
+Added Net: Name=NetI_TG4_1
+Added Pin To Net: NetName=NetI_TG6_1 Pin=I_TG6-1
+Added Pin To Net: NetName=NetI_TG6_1 Pin=Q14-2
+Added Pin To Net: NetName=NetI_TG6_1 Pin=Q14-6
+Added Net: Name=NetI_TG6_1

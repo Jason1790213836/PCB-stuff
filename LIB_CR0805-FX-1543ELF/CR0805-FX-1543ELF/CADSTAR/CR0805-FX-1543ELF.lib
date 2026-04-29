@@ -1,0 +1,16 @@
+.CR0805-FX-1543ELF :1 ;Thick Film Resistors - SMD 154K 1%
+RESC2012X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CR0805-FX-1543ELF
+~!Mouser Part Number (652-CR0805FX-1543ELF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-FX-1543ELF?qs=Hqdsf0hGw%2FDRTThedSiXGA%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (CR0805-FX-1543ELF)
+~!Link Datasheet (https://www.bourns.com/pdfs/chpreztr.pdf)
+~!Height (0.6mm)
+~!3D_Model (CR0805-FX-1543ELF)
+CR0805-FX-1543ELF
+1.1!U 2.1!U 

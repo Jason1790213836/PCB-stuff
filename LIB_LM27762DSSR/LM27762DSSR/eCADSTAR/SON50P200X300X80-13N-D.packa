@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "LM27762DSSR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-11-17-13:09:00)
+    (mountForm default
+        (footprintRef "SON50P200X300X80-13N-D")
+        (spec "System")
+    )
+)

@@ -1,0 +1,103 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "0805X7R106KT1AT"
+   (description "Multilayer Ceramic Capacitors MLCC - SMD/SMT CAP-RESALE")
+   (family "CAP")
+   (package "CAPC2013X113N")
+   (attribute "Datasheet Link" "https://datasheets.kyocera-avx.com/Accu-P.pdf")
+   (attribute "Geometry.Height" "1.13mm")
+   (attribute "Mouser Part Number" "581-0805X7R106KT1AT")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/0805X7R106KT1AT?qs=XAiT9M5g4x%252Bo4s7i6ql7Og%3D%3D")
+   (attribute "Manufacturer_Name" "Kyocera AVX")
+   (attribute "Manufacturer_Part_Number" "0805X7R106KT1AT")
+   (gate
+    (symbol "0805X7R106KT1AT")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "0805X7R106KT1AT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 220 100) (pt 220 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 100) (pt 280 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 220 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 280 0) (pt 300 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 500 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CAPC2013X113N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.425 0.86)
+      (pt 1.425 0.86)
+      (pt 1.425 -0.86)
+      (pt -1.425 -0.86)
+      (pt -1.425 0.86))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.005 0.635)
+      (pt 1.005 0.635)
+      (pt 1.005 -0.635)
+      (pt -1.005 -0.635)
+      (pt -1.005 0.635))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0 0.535)
+      (pt 0 -0.535))))
+   (leg 1 (pt -0.94 0) (padstack 0))
+   (leg 2 (pt 0.94 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.67 1.41 0 0 90))
+   )
+   (model "0805X7R106KT1AT.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
