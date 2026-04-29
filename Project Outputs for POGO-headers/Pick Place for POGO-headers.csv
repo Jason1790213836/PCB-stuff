@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\57778\Desktop\small board\Project Outputs for POGO-headers\Pick Place for POGO-headers.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       12/03/26
+Time:       12:12
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Footprint Description","Center-X(mm)","Center-Y(mm)","Rotation","Description","Height(mm)","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)","Variation"
+"CONN","40pin_edgeconn","TopLayer","Edge_Connector","","134.8740","86.8750","90","","0.0000","134.8740","79.2750","134.8740","94.4750","Fitted"
+"pogo10bot","854-22-010-10-004101","BottomLayer","8542201010004101","","103.6900","66.9430","0","Connector","0.0000","97.9750","66.9430","97.9750","66.9430","Fitted"
+"pogo10top","854-22-010-10-004101","BottomLayer","8542201010004101","","103.6900","79.1680","0","Connector","0.0000","97.9750","79.1680","97.9750","79.1680","Fitted"
+"pogo8left","Pogo_8pin","BottomLayer","New_footprint_1","","113.5935","73.0209","90","8-pin pogo pin","0.0000","113.4595","74.1640","113.5935","68.5759","Fitted"
+"pogo8right","Pogo_8pin","BottomLayer","New_footprint_1","","96.3685","73.0209","90","8-pin pogo pin","0.0000","96.2345","74.1640","96.3685","68.5759","Fitted"
